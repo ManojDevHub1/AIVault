@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compare AI Tools | AIVault</title>
+  <meta name="description" content="Side-by-side comparison of AI tools across pricing models, features, evaluations, and intended use cases in the AIVault directory.">
+  <link rel="canonical" href="https://YOUR-DOMAIN.com/compare/">
+  
+  <!-- Open Graph / Social Metadata -->
+  <meta property="og:title" content="Compare AI Tools | AIVault">
+  <meta property="og:description" content="Side-by-side comparison of AI tools across pricing models, features, evaluations, and intended use cases.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://YOUR-DOMAIN.com/compare/">
+  <meta property="og:site_name" content="AIVault">
+  
+  <!-- Twitter Card Metadata -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Compare AI Tools | AIVault">
+  <meta name="twitter:description" content="Side-by-side comparison of AI tools across pricing models, features, evaluations, and intended use cases.">
+
+  <link rel="icon" type="image/svg+xml" href="../assets/logo/favicon.svg">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body class="detail-layout-body">
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- Top Navigation Bar -->
+  <header class="navbar" id="navbar">
+    <div class="navbar-container">
+      <div class="nav-left">
+        <button type="button" class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Toggle navigation drawer" aria-expanded="false" aria-controls="sidebar">
+          <svg class="icon-menu" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+
+        <a href="../index.html" class="brand-logo" aria-label="AIVault Home">
+          <div class="logo-mark" aria-hidden="true">
+            <svg viewBox="0 0 32 32" width="28" height="28" fill="none">
+              <rect width="32" height="32" rx="8" fill="url(#brand-nav-grad)"/>
+              <path d="M16 8L24 16L16 24L8 16Z" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="16" cy="16" r="3" fill="#FFFFFF"/>
+              <defs>
+                <linearGradient id="brand-nav-grad" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#2563EB"/>
+                  <stop offset="1" stop-color="#0284C7"/>
+                </linearGradient>
+              </defs>
+            </svg>
+          </div>
+          <span class="logo-text">AI<span class="logo-accent">Vault</span></span>
+          <span class="logo-pill">DIRECTORY</span>
+        </a>
+      </div>
+
+      <nav class="nav-center" aria-label="Primary Navigation">
+        <ul class="nav-links">
+          <li><a href="../index.html#all-tools-section" class="nav-link">Explore</a></li>
+          <li><a href="../index.html#categories" class="nav-link">Categories</a></li>
+          <li><a href="../index.html#trending-section" class="nav-link">Trending</a></li>
+          <li><a href="../index.html#featured-section" class="nav-link">Featured</a></li>
+          <li><a href="./" class="nav-link active">Compare</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-right">
+        <!-- Favorites Shortcut -->
+        <a href="../index.html?view=favorites" class="nav-action-btn favorites-nav-btn" id="nav-favorites-btn" aria-label="View Favorites" title="View Favorites">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+          </svg>
+          <span class="badge-count" id="nav-fav-count">0</span>
+        </a>
+
+        <!-- Theme Toggle -->
+        <button type="button" class="nav-action-btn theme-toggle-btn" id="theme-toggle-btn" aria-label="Toggle theme" title="Toggle theme">
+          <svg class="sun-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="moon-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Drawer Backdrop -->
+  <div class="sidebar-backdrop" id="sidebar-backdrop" aria-hidden="true"></div>
+
+  <!-- Mobile Sidebar Drawer -->
+  <aside class="sidebar" id="sidebar" aria-label="Mobile Navigation Sidebar" aria-hidden="true">
+    <div class="sidebar-header">
+      <a href="../index.html" class="brand-logo" aria-label="AIVault Home">
+        <div class="logo-mark" aria-hidden="true">
+          <svg viewBox="0 0 32 32" width="28" height="28" fill="none">
+            <rect width="32" height="32" rx="8" fill="url(#brand-side-grad)"/>
+            <path d="M16 8L24 16L16 24L8 16Z" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+            <circle cx="16" cy="16" r="3" fill="#FFFFFF"/>
+            <defs>
+              <linearGradient id="brand-side-grad" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#2563EB"/>
+                <stop offset="1" stop-color="#0284C7"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <span class="logo-text">AI<span class="logo-accent">Vault</span></span>
+      </a>
+      <button type="button" class="sidebar-close-btn" id="sidebar-close-btn" aria-label="Close sidebar">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Navigation Section -->
+    <div class="sidebar-section">
+      <h2 class="sidebar-heading">NAVIGATION</h2>
+      <ul class="sidebar-nav-list" role="list">
+        <li>
+          <a href="../index.html" class="sidebar-item">
+            <span class="sidebar-item-content">
+              <span class="sidebar-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+              </span>
+              <span class="sidebar-label">Home</span>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="../index.html#all-tools-section" class="sidebar-item">
+            <span class="sidebar-item-content">
+              <span class="sidebar-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+              </span>
+              <span class="sidebar-label">Explore All Tools</span>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="./" class="sidebar-item active">
+            <span class="sidebar-item-content">
+              <span class="sidebar-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+              </span>
+              <span class="sidebar-label">Compare Tools</span>
+            </span>
+            <span class="sidebar-count" id="sidebar-compare-count">0</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- My Library Section -->
+    <div class="sidebar-section">
+      <h2 class="sidebar-heading">MY LIBRARY</h2>
+      <ul class="sidebar-nav-list" role="list">
+        <li>
+          <a href="../index.html?view=favorites" class="sidebar-item" id="sidebar-lib-favorites">
+            <span class="sidebar-item-content">
+              <span class="sidebar-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                </svg>
+              </span>
+              <span class="sidebar-label">Favorites</span>
+            </span>
+            <span class="sidebar-count" id="sidebar-fav-count">0</span>
+          </a>
+        </li>
+        <li>
+          <a href="../index.html?view=recent" class="sidebar-item" id="sidebar-lib-recent">
+            <span class="sidebar-item-content">
+              <span class="sidebar-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <polyline points="12 6 12 12 16 14"></polyline>
+                </svg>
+              </span>
+              <span class="sidebar-label">Recently Viewed</span>
+            </span>
+            <span class="sidebar-count" id="sidebar-recent-count">0</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </aside>
+
+  <!-- Main Content Container -->
+  <main class="compare-page-wrapper" id="main-content">
+    
+    <!-- Breadcrumb -->
+    <nav class="detail-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="../index.html">Home</a></li>
+        <li><span class="breadcrumb-sep">/</span><span class="breadcrumb-current" aria-current="page">Compare AI Tools</span></li>
+      </ol>
+    </nav>
+
+    <!-- Compare Hero -->
+    <section class="compare-hero">
+      <h1 class="compare-hero-title">Compare AI Tools</h1>
+      <p class="compare-hero-subtitle">Side-by-side factual comparison across features, pricing models, evaluations, and intended use cases.</p>
+    </section>
+
+    <!-- Empty State (Shown when < 2 tools selected) -->
+    <div class="compare-empty-container" id="compare-empty-state">
+      <div class="compare-empty-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="20" x2="18" y2="10"></line>
+          <line x1="12" y1="20" x2="12" y2="4"></line>
+          <line x1="6" y1="20" x2="6" y2="14"></line>
+        </svg>
+      </div>
+      <h2 class="compare-empty-title">Select at least 2 AI tools to compare.</h2>
+      <p class="compare-empty-text">Choose between 2 and 4 AI tools from the directory to view a side-by-side comparison of features, pricing, and capabilities.</p>
+      <a href="../index.html#all-tools-section" class="btn-primary">Browse AI Tools</a>
+    </div>
+
+    <!-- Comparison Content (Shown when 2-4 tools selected) -->
+    <div class="compare-content" id="compare-content" hidden>
+      <div class="compare-toolbar">
+        <span class="compare-toolbar-count" id="compare-count-text">Comparing 2 AI Tools</span>
+        <div class="compare-toolbar-actions">
+          <a href="../index.html#all-tools-section" class="btn-secondary" id="btn-add-more">Add More Tools</a>
+          <button type="button" class="btn-compare-clear-page" id="btn-clear-all-page">Clear All</button>
+        </div>
+      </div>
+
+      <!-- Table Wrapper with horizontal scrolling for responsive viewports -->
+      <div class="compare-table-wrapper" tabindex="0" role="region" aria-label="Tool Comparison Table">
+        <table class="compare-table" id="compare-table">
+          <thead id="compare-thead">
+            <!-- Injected via compare.js -->
+          </thead>
+          <tbody id="compare-tbody">
+            <!-- Injected via compare.js -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Bottom Navigation Footer -->
+    <nav class="detail-nav-footer" style="margin-top:40px;">
+      <a href="../index.html">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+        <span>Back to AIVault Home</span>
+      </a>
+      <a href="../index.html#all-tools-section">
+        <span>Browse All 3,938 AI Tools</span>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </a>
+    </nav>
+
+  </main>
+
+  <!-- Global Footer -->
+  <footer class="app-footer" id="app-footer">
+    <div class="footer-container">
+      <div class="footer-brand">
+        <a href="../index.html" class="brand-logo">
+          <span class="logo-text">AI<span class="logo-accent">Vault</span></span>
+        </a>
+        <p class="footer-tagline">Discover, compare, and organize AI tools for every workflow.</p>
+      </div>
+      <div class="footer-links-group">
+        <span class="footer-links-title">Directory</span>
+        <ul class="footer-links">
+          <li><a href="../index.html#all-tools-section">All AI Tools</a></li>
+          <li><a href="../category/coding/">Categories</a></li>
+          <li><a href="../index.html#featured-section">Featured</a></li>
+          <li><a href="../index.html#trending-section">Trending</a></li>
+        </ul>
+      </div>
+      <div class="footer-links-group">
+        <span class="footer-links-title">Library</span>
+        <ul class="footer-links">
+          <li><a href="../index.html?view=favorites">Favorites</a></li>
+          <li><a href="../index.html?view=recent">Recently Viewed</a></li>
+          <li><a href="./">Compare Tools</a></li>
+          <li><a href="../collections/">My Collections</a></li>
+        </ul>
+      </div>
+      <div class="footer-links-group">
+        <span class="footer-links-title">Platform</span>
+        <ul class="footer-links">
+          <li><a href="../sitemap.xml" target="_blank">Sitemap</a></li>
+          <li><a href="../robots.txt" target="_blank">Robots.txt</a></li>
+          <li><a href="../index.html#all-tools-section">Data &amp; Methodology</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 AIVault. Built by MANOJ KUSHWAHA.</p>
+      <p class="footer-disclaimer">3,938 AI Tools · 14 Categories</p>
+    </div>
+  </footer>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toast-container" aria-live="assertive" aria-atomic="true"></div>
+
+  <!-- Scripts -->
+  <script src="../data/ai-tools.js"></script>
+  <script src="compare.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+
+.vercel/
+.wrangler/
+
+node_modules/
+
+*.log

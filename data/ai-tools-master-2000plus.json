@@ -1,0 +1,4352 @@
+[
+  {
+    "id": "openai-chatgpt",
+    "name": "ChatGPT",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An advanced conversational AI model designed for general-purpose reasoning, text generation, and complex problem-solving.",
+    "tags": [
+      "llm",
+      "assistant",
+      "conversational-ai"
+    ],
+    "features": [
+      "Web browsing",
+      "Advanced data analysis",
+      "Custom instructions",
+      "Voice interaction"
+    ],
+    "bestFor": [
+      "General research",
+      "Drafting content",
+      "Coding assistance"
+    ],
+    "url": "https://chatgpt.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "anthropic-claude",
+    "name": "Claude",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI assistant focused on high-reliability, long-context reasoning, and complex document analysis.",
+    "tags": [
+      "llm",
+      "reasoning",
+      "document-analysis"
+    ],
+    "features": [
+      "Artifacts UI",
+      "Large context window",
+      "Advanced coding capabilities",
+      "Nuanced reasoning"
+    ],
+    "bestFor": [
+      "Enterprise workflows",
+      "Technical writing",
+      "Data synthesis"
+    ],
+    "url": "https://claude.ai",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "google-gemini",
+    "name": "Gemini",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Google's multimodal AI assistant deeply integrated with the broader Google Cloud and Workspace ecosystem.",
+    "tags": [
+      "multimodal",
+      "search",
+      "workspace"
+    ],
+    "features": [
+      "Ecosystem integration",
+      "Multimodal inputs",
+      "Real-time web access",
+      "Code generation"
+    ],
+    "bestFor": [
+      "Google Workspace users",
+      "General queries",
+      "Data integration"
+    ],
+    "url": "https://gemini.google.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "xai-grok",
+    "name": "Grok",
+    "category": "AI Chat",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A real-time AI assistant with deep integration into social data streams and robust multimodal capabilities.",
+    "tags": [
+      "real-time",
+      "multimodal",
+      "social-data"
+    ],
+    "features": [
+      "Real-time data access",
+      "Image generation",
+      "Video capabilities",
+      "Unfiltered modes"
+    ],
+    "bestFor": [
+      "Current events",
+      "Social media analysis",
+      "Creative generation"
+    ],
+    "url": "https://grok.com",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "perplexity-ai",
+    "name": "Perplexity",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A web-grounded AI search engine designed for multi-step reasoning and delivering source-based answers.",
+    "tags": [
+      "search",
+      "research",
+      "citations"
+    ],
+    "features": [
+      "Inline citations",
+      "Pro search mode",
+      "File analysis",
+      "Real-time web browsing"
+    ],
+    "bestFor": [
+      "Academic research",
+      "Fact-checking",
+      "Deep-dive queries"
+    ],
+    "url": "https://perplexity.ai",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "deepseek-chat",
+    "name": "DeepSeek",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A highly efficient AI assistant designed for conversational interactions, advanced code generation, and reasoning tasks.",
+    "tags": [
+      "reasoning",
+      "coding",
+      "open-weights"
+    ],
+    "features": [
+      "Code generation",
+      "Mathematical reasoning",
+      "Fast inference",
+      "API access"
+    ],
+    "bestFor": [
+      "Software development",
+      "Mathematics",
+      "Cost-effective reasoning"
+    ],
+    "url": "https://chat.deepseek.com",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "mistral-le-chat",
+    "name": "Mistral Le Chat",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A conversational interface providing access to Mistral's highly optimized open-weight and proprietary language models.",
+    "tags": [
+      "assistant",
+      "open-weights",
+      "enterprise"
+    ],
+    "features": [
+      "Multilingual support",
+      "Fast processing",
+      "Enterprise integration",
+      "Agentic capabilities"
+    ],
+    "bestFor": [
+      "European language tasks",
+      "Enterprise deployment",
+      "General chatting"
+    ],
+    "url": "https://chat.mistral.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "tiledesk",
+    "name": "Tiledesk",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source, no-code chatbot development framework designed for multi-channel customer support deployment.",
+    "tags": [
+      "customer-support",
+      "open-source",
+      "automation"
+    ],
+    "features": [
+      "Visual flow builder",
+      "Omnichannel deployment",
+      "LLM integration",
+      "Human handoff"
+    ],
+    "bestFor": [
+      "Customer service teams",
+      "E-commerce support",
+      "Helpdesk automation"
+    ],
+    "url": "https://tiledesk.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "aicamp",
+    "name": "AICamp",
+    "category": "AI Chat",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A collaborative AI workspace designed to deploy secure, team-wide access to leading language models.",
+    "tags": [
+      "teams",
+      "collaboration",
+      "workspace"
+    ],
+    "features": [
+      "Centralized billing",
+      "Team collaboration",
+      "Multiple LLM access",
+      "Data privacy controls"
+    ],
+    "bestFor": [
+      "Corporate teams",
+      "Agency workflows",
+      "Secure enterprise use"
+    ],
+    "url": "https://aicamp.so",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "gali-chat",
+    "name": "Gali Chat",
+    "category": "AI Chat",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An automated 24/7 AI support assistant engineered to drive business growth and enhance customer engagement.",
+    "tags": [
+      "customer-support",
+      "business",
+      "automation"
+    ],
+    "features": [
+      "Always-on support",
+      "Custom knowledge base",
+      "Lead capture",
+      "Analytics dashboard"
+    ],
+    "bestFor": [
+      "Small business websites",
+      "Lead generation",
+      "Automated support"
+    ],
+    "url": "https://galichat.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "chatpdf",
+    "name": "ChatPDF",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A highly focused platform enabling users to interactively query, summarize, and extract data from PDF documents.",
+    "tags": [
+      "document-analysis",
+      "summarization",
+      "utility"
+    ],
+    "features": [
+      "Instant summarization",
+      "Direct document querying",
+      "Citation linking",
+      "Multi-language support"
+    ],
+    "bestFor": [
+      "Students",
+      "Researchers",
+      "Legal professionals"
+    ],
+    "url": "https://chatpdf.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "phind",
+    "name": "Phind",
+    "category": "AI Chat",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An intelligent search engine and chat assistant specifically optimized to solve complex programming and development challenges.",
+    "tags": [
+      "coding",
+      "search",
+      "developer-tools"
+    ],
+    "features": [
+      "Code-specific search",
+      "IDE integration",
+      "Proactive questioning",
+      "Web browsing"
+    ],
+    "bestFor": [
+      "Software engineers",
+      "Debugging",
+      "Learning new frameworks"
+    ],
+    "url": "https://phind.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A high-fidelity AI image generator renowned for its exceptional artistic quality and photorealistic rendering capabilities.",
+    "tags": [
+      "art",
+      "generation",
+      "creative"
+    ],
+    "features": [
+      "High resolution",
+      "Artistic stylization",
+      "Discord integration",
+      "Advanced prompting parameters"
+    ],
+    "bestFor": [
+      "Concept art",
+      "Marketing visuals",
+      "Creative exploration"
+    ],
+    "url": "https://midjourney.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A powerful open-weight text-to-image model capable of running locally to generate highly customizable, photorealistic imagery.",
+    "tags": [
+      "open-weights",
+      "local",
+      "generation"
+    ],
+    "features": [
+      "Local execution",
+      "Fine-tuning support",
+      "Inpainting",
+      "ControlNet compatibility"
+    ],
+    "bestFor": [
+      "Developers",
+      "Advanced artists",
+      "Uncensored generation"
+    ],
+    "url": "https://stability.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A commercially safe AI image generation and editing suite seamlessly integrated into the Adobe Creative Cloud ecosystem.",
+    "tags": [
+      "design",
+      "commercial-safe",
+      "editing"
+    ],
+    "features": [
+      "Generative fill",
+      "Text effects",
+      "Vector generation",
+      "Safe for commercial use"
+    ],
+    "bestFor": [
+      "Graphic designers",
+      "Enterprise marketing",
+      "Creative agencies"
+    ],
+    "url": "https://firefly.adobe.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "dall-e-3",
+    "name": "DALL-E 3",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "OpenAI's premier text-to-image generator known for its strict prompt adherence and native integration within ChatGPT.",
+    "tags": [
+      "generation",
+      "integration",
+      "creative"
+    ],
+    "features": [
+      "High prompt fidelity",
+      "Text rendering",
+      "Conversational editing",
+      "Safety filters"
+    ],
+    "bestFor": [
+      "Quick illustrations",
+      "Content creators",
+      "Storyboarding"
+    ],
+    "url": "https://openai.com/dall-e-3",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "magic-studio",
+    "name": "Magic Studio",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A web-based suite of intuitive AI tools designed for rapidly creating, editing, and enhancing images for various creative projects.",
+    "tags": [
+      "editing",
+      "generation",
+      "web-based"
+    ],
+    "features": [
+      "Background removal",
+      "Magic eraser",
+      "Image generation",
+      "Profile picture creation"
+    ],
+    "bestFor": [
+      "Social media managers",
+      "E-commerce",
+      "Casual creators"
+    ],
+    "url": "https://magicstudio.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "lensa",
+    "name": "Lensa",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A popular mobile application that leverages AI for advanced photo editing and stylized, artistic portrait generation.",
+    "tags": [
+      "mobile",
+      "portraits",
+      "editing"
+    ],
+    "features": [
+      "Magic avatars",
+      "Skin retouching",
+      "Background replacement",
+      "Art styles"
+    ],
+    "bestFor": [
+      "Personal branding",
+      "Social media profiles",
+      "Mobile editing"
+    ],
+    "url": "https://prisma-ai.com/lensa",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "dzine-ai",
+    "name": "Dzine AI",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A streamlined AI platform explicitly designed for rapid, professional-grade image editing and visual asset workflows.",
+    "tags": [
+      "editing",
+      "workflow",
+      "design"
+    ],
+    "features": [
+      "Asset generation",
+      "Quick editing tools",
+      "Workflow automation",
+      "Style transfer"
+    ],
+    "bestFor": [
+      "Digital marketers",
+      "Content teams",
+      "Rapid prototyping"
+    ],
+    "url": "https://dzine.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "playground-ai",
+    "name": "Playground AI",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An accessible, web-based AI image creator and editor that supports mixing multiple generation models and precise edits.",
+    "tags": [
+      "editing",
+      "generation",
+      "accessible"
+    ],
+    "features": [
+      "Mixed-model generation",
+      "Canvas interface",
+      "Inpainting",
+      "Community prompts"
+    ],
+    "bestFor": [
+      "Hobbyists",
+      "Digital artists",
+      "Prompt experimentation"
+    ],
+    "url": "https://playgroundai.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "pixlr",
+    "name": "Pixlr",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive cloud-based photo editor that seamlessly integrates AI generative tools for professional image manipulation.",
+    "tags": [
+      "editor",
+      "cloud-based",
+      "design"
+    ],
+    "features": [
+      "Layer-based editing",
+      "Generative fill",
+      "Templates",
+      "Background removal"
+    ],
+    "bestFor": [
+      "Web designers",
+      "Marketers",
+      "Photo retouching"
+    ],
+    "url": "https://pixlr.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "vance-ai",
+    "name": "Vance AI",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A suite of specialized AI utility tools focused on automated background removal, intelligent upscaling, and image enhancement.",
+    "tags": [
+      "upscaling",
+      "background-removal",
+      "enhancement"
+    ],
+    "features": [
+      "Image upscaling",
+      "Noise reduction",
+      "Artifact removal",
+      "Sharpening"
+    ],
+    "bestFor": [
+      "Photographers",
+      "E-commerce product shots",
+      "Archivists"
+    ],
+    "url": "https://vanceai.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "picsart",
+    "name": "Picsart",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A massive visual storytelling platform offering an extensive array of AI-powered photo and video editing tools for mobile and web.",
+    "tags": [
+      "storytelling",
+      "mobile",
+      "editor"
+    ],
+    "features": [
+      "AI avatar generator",
+      "Text to image",
+      "Video effects",
+      "Collage maker"
+    ],
+    "bestFor": [
+      "Social media creators",
+      "Influencers",
+      "Casual users"
+    ],
+    "url": "https://picsart.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "cleanup-pictures",
+    "name": "Cleanup.pictures",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A dedicated AI utility focused entirely on seamlessly erasing unwanted elements, text, or objects from photographs.",
+    "tags": [
+      "retouching",
+      "utility",
+      "editing"
+    ],
+    "features": [
+      "Object removal",
+      "Text removal",
+      "Watermark erasure",
+      "High-resolution export"
+    ],
+    "bestFor": [
+      "Real estate photography",
+      "Product photography",
+      "Personal photos"
+    ],
+    "url": "https://cleanup.pictures",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "remini",
+    "name": "Remini",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-driven application specializing in restoring, sharpening, and clarifying old, blurred, or low-resolution images.",
+    "tags": [
+      "restoration",
+      "enhancement",
+      "utility"
+    ],
+    "features": [
+      "Face enhancement",
+      "Blur reduction",
+      "Color correction",
+      "Batch processing"
+    ],
+    "bestFor": [
+      "Genealogists",
+      "Archivists",
+      "Restoring family photos"
+    ],
+    "url": "https://remini.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "beautyplus",
+    "name": "BeautyPlus",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A mobile photo editing application utilizing AI for instantaneous, one-tap image transformations and beauty retouching.",
+    "tags": [
+      "mobile",
+      "retouching",
+      "social"
+    ],
+    "features": [
+      "Skin smoothing",
+      "Blemish removal",
+      "AR filters",
+      "Body tuning"
+    ],
+    "bestFor": [
+      "Selfies",
+      "Social media posting",
+      "Vloggers"
+    ],
+    "url": "https://beautyplus.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "palette-fm",
+    "name": "Palette.fm",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized AI tool designed to automatically and accurately colorize black and white photographs with lifelike hues.",
+    "tags": [
+      "colorization",
+      "restoration",
+      "utility"
+    ],
+    "features": [
+      "Automatic colorization",
+      "Multiple color filters",
+      "High-resolution output",
+      "Text-prompt adjustments"
+    ],
+    "bestFor": [
+      "Historical research",
+      "Restoring vintage photos",
+      "Creative design"
+    ],
+    "url": "https://palette.fm",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "deep-nostalgia",
+    "name": "Deep Nostalgia",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A service by MyHeritage that uses deep learning algorithms to animate faces in historical still photographs.",
+    "tags": [
+      "animation",
+      "restoration",
+      "historical"
+    ],
+    "features": [
+      "Facial animation",
+      "Photo enhancement",
+      "Historical archiving",
+      "Shareable video output"
+    ],
+    "bestFor": [
+      "Genealogy",
+      "Family history",
+      "Educational visualization"
+    ],
+    "url": "https://myheritage.com/deep-nostalgia",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A next-generation content creation suite offering high-fidelity, controllable video generation and advanced AI editing tools.",
+    "tags": [
+      "generation",
+      "editing",
+      "creative"
+    ],
+    "features": [
+      "Gen-2 text-to-video",
+      "Video-to-video",
+      "Motion tracking",
+      "Green screen removal"
+    ],
+    "bestFor": [
+      "Filmmakers",
+      "VFX artists",
+      "Creative agencies"
+    ],
+    "url": "https://runwayml.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "synthesia",
+    "name": "Synthesia",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A leading platform for creating professional corporate videos from plain text using highly realistic, multilingual AI avatars.",
+    "tags": [
+      "avatars",
+      "presentations",
+      "text-to-video"
+    ],
+    "features": [
+      "Custom avatars",
+      "Multilingual voiceovers",
+      "Template library",
+      "Screen recording"
+    ],
+    "bestFor": [
+      "Corporate training",
+      "Marketing videos",
+      "Sales enablement"
+    ],
+    "url": "https://synthesia.io",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "rephrase-ai",
+    "name": "Rephrase AI",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A technology platform enabling hyper-personalized video creation at scale, specifically designed to drive business engagement.",
+    "tags": [
+      "personalization",
+      "marketing",
+      "avatars"
+    ],
+    "features": [
+      "Video personalization",
+      "Avatar generation",
+      "Campaign integration",
+      "Analytics tracking"
+    ],
+    "bestFor": [
+      "Outreach campaigns",
+      "Customer engagement",
+      "Sales prospecting"
+    ],
+    "url": "https://rephrase.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "hour-one",
+    "name": "Hour One",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A service that automatically turns text scripts into cinematic videos featuring virtual presenters and dynamic layouts.",
+    "tags": [
+      "avatars",
+      "text-to-video",
+      "cinematic"
+    ],
+    "features": [
+      "Virtual presenters",
+      "Cinematic templates",
+      "Text-to-speech",
+      "Brand customization"
+    ],
+    "bestFor": [
+      "News generation",
+      "Internal communications",
+      "Product marketing"
+    ],
+    "url": "https://hourone.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "d-id",
+    "name": "D-ID",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A creative studio for animating and personalizing digital content using advanced AI-driven talking avatars and facial animation.",
+    "tags": [
+      "avatars",
+      "animation",
+      "creative"
+    ],
+    "features": [
+      "Portrait animation",
+      "Live portrait generation",
+      "API access",
+      "Multilingual voices"
+    ],
+    "bestFor": [
+      "Interactive media",
+      "E-learning",
+      "Digital marketing"
+    ],
+    "url": "https://d-id.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "shortvideogen",
+    "name": "ShortVideoGen",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized tool dedicated to autonomously creating short-form videos with synchronized audio directly from text prompts.",
+    "tags": [
+      "short-form",
+      "text-to-video",
+      "audio"
+    ],
+    "features": [
+      "Automated generation",
+      "Audio syncing",
+      "Social media sizing",
+      "Template driven"
+    ],
+    "bestFor": [
+      "TikTok creators",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "url": "https://shortvideogen.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "clipwing",
+    "name": "Clipwing",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An editing utility explicitly designed to automatically cut and reframe long-form videos into dozens of viral short clips.",
+    "tags": [
+      "editing",
+      "repurposing",
+      "short-form"
+    ],
+    "features": [
+      "Auto-clipping",
+      "Subtitle generation",
+      "Speaker tracking",
+      "Platform export"
+    ],
+    "bestFor": [
+      "Podcasters",
+      "Webinar hosts",
+      "Content marketers"
+    ],
+    "url": "https://clipwing.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "recast-studio",
+    "name": "Recast Studio",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-powered marketing assistant optimized for rapidly repurposing audio podcast content into engaging video assets.",
+    "tags": [
+      "marketing",
+      "podcasting",
+      "repurposing"
+    ],
+    "features": [
+      "Audiogram generation",
+      "Transcription",
+      "Custom templates",
+      "Auto-sizing"
+    ],
+    "bestFor": [
+      "Podcast promotion",
+      "Social media management",
+      "Audio creators"
+    ],
+    "url": "https://recast.studio",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "based-ai",
+    "name": "Based AI",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A platform offering a highly intuitive interface for AI-assisted video creation, editing, and narrative structuring.",
+    "tags": [
+      "editing",
+      "interface",
+      "creative"
+    ],
+    "features": [
+      "Intuitive timeline",
+      "AI asset generation",
+      "Narrative assistance",
+      "Cloud rendering"
+    ],
+    "bestFor": [
+      "Independent creators",
+      "Video editors",
+      "Digital storytellers"
+    ],
+    "url": "https://based.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "kling",
+    "name": "Kling",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A powerful creative studio boasting advanced, frontier AI models for both photorealistic image and cinematic video generation.",
+    "tags": [
+      "generation",
+      "multimodal",
+      "studio"
+    ],
+    "features": [
+      "High-resolution video",
+      "Prompt adherence",
+      "Fluid motion generation",
+      "Image-to-video"
+    ],
+    "bestFor": [
+      "Commercial production",
+      "Visual effects",
+      "High-end content creation"
+    ],
+    "url": "https://klingai.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "sisif",
+    "name": "Sisif",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A rapid AI video generator focused exclusively on turning text inputs into stunning visual sequences instantly.",
+    "tags": [
+      "text-to-video",
+      "rapid",
+      "generation"
+    ],
+    "features": [
+      "Instant rendering",
+      "Style selection",
+      "Text-based editing",
+      "Export options"
+    ],
+    "bestFor": [
+      "Quick mockups",
+      "Social media content",
+      "Brainstorming"
+    ],
+    "url": "https://sisif.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "vid-ai",
+    "name": "Vid.AI",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-driven application designed to simplify complex video creation and editing processes for non-technical users.",
+    "tags": [
+      "editing",
+      "creation",
+      "simplified"
+    ],
+    "features": [
+      "Automated cuts",
+      "Color correction",
+      "Audio enhancement",
+      "Transition matching"
+    ],
+    "bestFor": [
+      "Small businesses",
+      "Vloggers",
+      "Educators"
+    ],
+    "url": "https://vid.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "pictory",
+    "name": "Pictory",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A cloud-based service that effortlessly transforms text documents and scripts into polished, editable videos with stock footage.",
+    "tags": [
+      "text-to-video",
+      "editing",
+      "content-creation"
+    ],
+    "features": [
+      "Script to video",
+      "Article to video",
+      "Auto-captioning",
+      "B-roll selection"
+    ],
+    "bestFor": [
+      "Bloggers",
+      "Course creators",
+      "Marketers"
+    ],
+    "url": "https://pictory.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "invideo",
+    "name": "InVideo",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive platform facilitating the transformation of ideas into stunning videos using automated editing and vast template libraries.",
+    "tags": [
+      "editing",
+      "creation",
+      "templates"
+    ],
+    "features": [
+      "Extensive templates",
+      "AI scriptwriting",
+      "Stock media library",
+      "Voiceover generation"
+    ],
+    "bestFor": [
+      "YouTube creators",
+      "Agencies",
+      "Promotional content"
+    ],
+    "url": "https://invideo.io",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "fliki",
+    "name": "Fliki",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A tool that transforms text into engaging, lifelike video content featuring high-quality AI voices and dynamic media.",
+    "tags": [
+      "text-to-video",
+      "voiceover",
+      "content"
+    ],
+    "features": [
+      "Text to video",
+      "Ultra-realistic voices",
+      "Blog to video",
+      "Multilingual"
+    ],
+    "bestFor": [
+      "Faceless channels",
+      "Audiobook teasers",
+      "Marketing"
+    ],
+    "url": "https://fliki.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "kinetix",
+    "name": "Kinetix",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An advanced platform aiming to democratize 3D animation creation through AI-driven video-to-animation processing.",
+    "tags": [
+      "3d",
+      "animation",
+      "creative"
+    ],
+    "features": [
+      "Video to 3D motion",
+      "Emote creation",
+      "Avatar integration",
+      "Web3 compatibility"
+    ],
+    "bestFor": [
+      "Game developers",
+      "Metaverse creators",
+      "Animators"
+    ],
+    "url": "https://kinetix.tech",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "shuffll",
+    "name": "Shuffll",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A video production platform utilizing AI to automate the entire process from script generation to final screen rendering.",
+    "tags": [
+      "production",
+      "scripting",
+      "automation"
+    ],
+    "features": [
+      "AI copywriting",
+      "Automated storyboarding",
+      "Virtual studio",
+      "Fast rendering"
+    ],
+    "bestFor": [
+      "Corporate communications",
+      "B2B marketing",
+      "HR training"
+    ],
+    "url": "https://shuffll.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "tubemagic",
+    "name": "TubeMagic",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A suite of tools elevating YouTube channel strategy through AI-driven ideation, script generation, and SEO optimization.",
+    "tags": [
+      "youtube",
+      "seo",
+      "scripting"
+    ],
+    "features": [
+      "Title generator",
+      "Scriptwriter",
+      "Keyword optimization",
+      "Thumbnail ideas"
+    ],
+    "bestFor": [
+      "YouTubers",
+      "Video marketers",
+      "Content strategists"
+    ],
+    "url": "https://tubemagic.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "klap",
+    "name": "Klap",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An application designed to seamlessly turn long-form video content into viral short-form clips optimized for social algorithms.",
+    "tags": [
+      "short-form",
+      "repurposing",
+      "viral"
+    ],
+    "features": [
+      "Viral moment detection",
+      "Auto-framing",
+      "Dynamic captions",
+      "Platform presets"
+    ],
+    "bestFor": [
+      "Social media managers",
+      "Podcasters",
+      "Streamers"
+    ],
+    "url": "https://klap.app",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "genmo",
+    "name": "Genmo",
+    "category": "Video",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A generative platform for effortlessly transforming text prompts or static images into professional, fluid video content.",
+    "tags": [
+      "generation",
+      "multimodal",
+      "creative"
+    ],
+    "features": [
+      "Image to video",
+      "Text to video",
+      "3D asset generation",
+      "Motion brush"
+    ],
+    "bestFor": [
+      "Creative directors",
+      "Digital artists",
+      "Prototyping"
+    ],
+    "url": "https://genmo.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "ai-studios",
+    "name": "AI Studios",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "DeepBrain's enterprise platform for instantly generating presentation videos featuring realistic avatars from basic text.",
+    "tags": [
+      "avatars",
+      "text-to-video",
+      "presentations"
+    ],
+    "features": [
+      "Photorealistic avatars",
+      "PowerPoint integration",
+      "Multilingual synthesis",
+      "Custom voice cloning"
+    ],
+    "bestFor": [
+      "News broadcasting",
+      "Enterprise training",
+      "Sales pitches"
+    ],
+    "url": "https://deepbrain.io/aistudios",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "ebsynth",
+    "name": "EbSynth",
+    "category": "Video",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A desktop utility that intelligently animates entire video sequences based on the stylistic rendering of a single painted keyframe.",
+    "tags": [
+      "animation",
+      "rendering",
+      "local"
+    ],
+    "features": [
+      "Style transfer",
+      "Keyframe propagation",
+      "Local processing",
+      "High resolution"
+    ],
+    "bestFor": [
+      "Animators",
+      "VFX artists",
+      "Stylized filmmaking"
+    ],
+    "url": "https://ebsynth.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "synthesys",
+    "name": "Synthesys",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An algorithm suite developing text-to-voiceover and avatar videos specifically tailored for commercial and marketing use cases.",
+    "tags": [
+      "commercial",
+      "avatars",
+      "voiceover"
+    ],
+    "features": [
+      "Commercial rights",
+      "High-quality avatars",
+      "Voice synthesis",
+      "Cloud rendering"
+    ],
+    "bestFor": [
+      "Commercial production",
+      "Ad agencies",
+      "E-learning developers"
+    ],
+    "url": "https://synthesys.io",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "vidyo-ai",
+    "name": "vidyo.ai",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-powered editing tool focused on repurposing long webinars and podcasts into platform-optimized, viral short clips.",
+    "tags": [
+      "repurposing",
+      "editing",
+      "social-media"
+    ],
+    "features": [
+      "Auto-chapters",
+      "Template styling",
+      "Subtitle generation",
+      "Social media integration"
+    ],
+    "bestFor": [
+      "Content creators",
+      "B2B marketers",
+      "Video editors"
+    ],
+    "url": "https://vidyo.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "dezgo",
+    "name": "Dezgo",
+    "category": "Video",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An accessible engine for transforming text into stunning images or short video sequences with AI-driven creativity and low censorship.",
+    "tags": [
+      "generation",
+      "images",
+      "text-to-video"
+    ],
+    "features": [
+      "Unrestricted generation",
+      "Multiple model support",
+      "API access",
+      "Fast rendering"
+    ],
+    "bestFor": [
+      "Hobbyists",
+      "Creative experimentation",
+      "Developers"
+    ],
+    "url": "https://dezgo.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "peech",
+    "name": "Peech",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A software suite that revolutionizes video post-production through automated, brand-aligned editing and multilingual support.",
+    "tags": [
+      "post-production",
+      "editing",
+      "multilingual"
+    ],
+    "features": [
+      "Brand kits",
+      "Automated typography",
+      "Auto-editing",
+      "Multilingual translation"
+    ],
+    "bestFor": [
+      "Internal media teams",
+      "Corporate communications",
+      "Brand marketers"
+    ],
+    "url": "https://peech-ai.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "viva",
+    "name": "Viva",
+    "category": "Video",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Cutting-edge generative technology focused on transforming simple words into captivating visual and continuous video assets.",
+    "tags": [
+      "text-to-video",
+      "generation",
+      "visuals"
+    ],
+    "features": [
+      "Text to video",
+      "High visual fidelity",
+      "Motion control",
+      "Rapid generation"
+    ],
+    "bestFor": [
+      "Designers",
+      "Social content",
+      "Concept visualization"
+    ],
+    "url": "https://viva.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "shortmake",
+    "name": "ShortMake",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An application that simplifies the technical process of creating viral, short-form video content through automated workflows.",
+    "tags": [
+      "short-form",
+      "viral",
+      "creation"
+    ],
+    "features": [
+      "Workflow automation",
+      "Trend analysis",
+      "Captioning",
+      "Direct publishing"
+    ],
+    "bestFor": [
+      "TikTokers",
+      "Reels creators",
+      "Digital agencies"
+    ],
+    "url": "https://shortmake.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "flickify",
+    "name": "Flickify",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A tool designed to automatically transform written blog posts and web URLs into highly engaging video formats.",
+    "tags": [
+      "text-to-video",
+      "URLs",
+      "automated"
+    ],
+    "features": [
+      "URL parsing",
+      "Automated storyboarding",
+      "Voiceover syncing",
+      "Stock integration"
+    ],
+    "bestFor": [
+      "Publishers",
+      "Bloggers",
+      "News outlets"
+    ],
+    "url": "https://flickify.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "elai-io",
+    "name": "Elai.io",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An enterprise video creation platform featuring customizable AI avatars, integrated text-to-speech, and API workflows.",
+    "tags": [
+      "avatars",
+      "text-to-video",
+      "enterprise"
+    ],
+    "features": [
+      "Custom avatars",
+      "API integration",
+      "Interactive video",
+      "Multilingual translation"
+    ],
+    "bestFor": [
+      "Enterprise scaling",
+      "L&D departments",
+      "E-commerce"
+    ],
+    "url": "https://elai.io",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "fliz",
+    "name": "Fliz",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A streamlined service that swiftly transforms text inputs and e-commerce listings into engaging product videos.",
+    "tags": [
+      "text-to-video",
+      "e-commerce",
+      "automated"
+    ],
+    "features": [
+      "Product URL parsing",
+      "Automated video creation",
+      "Voiceovers",
+      "Fast rendering"
+    ],
+    "bestFor": [
+      "E-commerce stores",
+      "Dropshippers",
+      "Marketers"
+    ],
+    "url": "https://fliz.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "spikes-studio",
+    "name": "Spikes Studio",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An intelligent editor that elevates social media content through AI-powered, platform-optimized formatting and auto-captioning.",
+    "tags": [
+      "social-media",
+      "editing",
+      "optimization"
+    ],
+    "features": [
+      "Auto-captioning",
+      "Platform presets",
+      "Engagement hooks",
+      "Video cropping"
+    ],
+    "bestFor": [
+      "Twitch streamers",
+      "YouTubers",
+      "Social media managers"
+    ],
+    "url": "https://spikes.studio",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "feedeo",
+    "name": "Feedeo",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An interactive video platform utilizing AI avatars specifically optimized for feedback collection, surveys, and lead generation.",
+    "tags": [
+      "interactive",
+      "lead-generation",
+      "avatars"
+    ],
+    "features": [
+      "Interactive branching",
+      "Lead capture forms",
+      "Analytics",
+      "CRM integration"
+    ],
+    "bestFor": [
+      "Sales teams",
+      "Customer success",
+      "Market research"
+    ],
+    "url": "https://feedeo.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "spiritme",
+    "name": "Spiritme",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An application that creates AI videos featuring digital avatars capable of expressing nuanced, realistic human emotions.",
+    "tags": [
+      "avatars",
+      "emotions",
+      "text-to-video"
+    ],
+    "features": [
+      "Emotional rendering",
+      "Quick avatar creation",
+      "Mobile app",
+      "Scripting tools"
+    ],
+    "bestFor": [
+      "Personalized marketing",
+      "Greeting videos",
+      "Influencers"
+    ],
+    "url": "https://spiritme.tech",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "woxo",
+    "name": "WOXO",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A platform enabling creators to transform ideas and spreadsheets into bulk-generated, trending video formats effortlessly.",
+    "tags": [
+      "trending",
+      "bulk-creation",
+      "templates"
+    ],
+    "features": [
+      "Bulk video generation",
+      "Spreadsheet integration",
+      "Trend widgets",
+      "Social scheduling"
+    ],
+    "bestFor": [
+      "Social media agencies",
+      "Content factories",
+      "Marketers"
+    ],
+    "url": "https://woxo.tech",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "visla",
+    "name": "Visla",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A collaborative workspace harnessing AI for effortless video creation, teleprompting, editing, and team sharing.",
+    "tags": [
+      "collaboration",
+      "editing",
+      "workspace"
+    ],
+    "features": [
+      "Text-based video editing",
+      "Teleprompter",
+      "Team collaboration",
+      "B-roll suggestion"
+    ],
+    "bestFor": [
+      "Remote teams",
+      "Video podcasters",
+      "Corporate comms"
+    ],
+    "url": "https://visla.us",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "storyboard-hero",
+    "name": "Storyboard Hero",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-driven platform tailored for pre-production, automating script generation, visual storyboarding, and concept collaboration.",
+    "tags": [
+      "storyboarding",
+      "pre-production",
+      "scripts"
+    ],
+    "features": [
+      "Script generation",
+      "AI sketch generation",
+      "PDF export",
+      "Client collaboration"
+    ],
+    "bestFor": [
+      "Video production agencies",
+      "Directors",
+      "Creative teams"
+    ],
+    "url": "https://storyboardhero.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "joggai",
+    "name": "JoggAI",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A performance marketing tool designed specifically to generate highly engaging, conversion-optimized video advertisements.",
+    "tags": [
+      "advertising",
+      "marketing",
+      "creation"
+    ],
+    "features": [
+      "Ad templates",
+      "Conversion optimization",
+      "Avatar integration",
+      "Asset library"
+    ],
+    "bestFor": [
+      "Performance marketers",
+      "Media buyers",
+      "E-commerce brands"
+    ],
+    "url": "https://jogg.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "hypergro",
+    "name": "Hypergro",
+    "category": "Video",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized platform utilizing user-generated content and AI-driven video ad creation optimized for direct response sales.",
+    "tags": [
+      "advertising",
+      "sales",
+      "marketing"
+    ],
+    "features": [
+      "UGC processing",
+      "Ad performance prediction",
+      "Automated editing",
+      "Campaign deployment"
+    ],
+    "bestFor": [
+      "DTC brands",
+      "Growth teams",
+      "Ad agencies"
+    ],
+    "url": "https://hypergro.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "vibeo",
+    "name": "Vibeo",
+    "category": "Video",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-enhanced system engineered for systematically collecting, editing, and utilizing authentic customer video testimonials.",
+    "tags": [
+      "testimonials",
+      "marketing",
+      "collection"
+    ],
+    "features": [
+      "Automated collection workflows",
+      "AI transcriptions",
+      "Video formatting",
+      "Widget embedding"
+    ],
+    "bestFor": [
+      "B2B SaaS",
+      "E-commerce",
+      "Marketing teams"
+    ],
+    "url": "https://vibeo.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An enterprise-grade AI platform designed to help marketing teams craft compelling, brand-aligned content at scale.",
+    "tags": [
+      "marketing",
+      "copywriting",
+      "enterprise"
+    ],
+    "features": [
+      "Brand voice training",
+      "Campaign generation",
+      "SEO integration",
+      "Team collaboration"
+    ],
+    "bestFor": [
+      "Marketing departments",
+      "Agencies",
+      "Enterprise content teams"
+    ],
+    "url": "https://jasper.ai",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "quillbot",
+    "name": "Quillbot",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive AI writing assistant featuring robust paraphrasing, summarizing, and grammar checking tools for academics and professionals.",
+    "tags": [
+      "paraphrasing",
+      "grammar",
+      "academic"
+    ],
+    "features": [
+      "Multiple rewrite modes",
+      "Plagiarism checker",
+      "Citation generator",
+      "Browser extension"
+    ],
+    "bestFor": [
+      "Students",
+      "Academics",
+      "Freelance writers"
+    ],
+    "url": "https://quillbot.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "anyword",
+    "name": "Anyword",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A performance-driven AI copywriting tool focused on creating and optimizing high-converting text based on predictive analytics.",
+    "tags": [
+      "copywriting",
+      "analytics",
+      "marketing"
+    ],
+    "features": [
+      "Predictive performance scores",
+      "A/B testing",
+      "Custom personas",
+      "Ad copy generation"
+    ],
+    "bestFor": [
+      "Performance marketers",
+      "Copywriters",
+      "E-commerce"
+    ],
+    "url": "https://anyword.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "sudowrite",
+    "name": "Sudowrite",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI writing partner specifically tailored to assist fiction authors with narrative generation, pacing, and brainstorming.",
+    "tags": [
+      "fiction",
+      "creative-writing",
+      "narrative"
+    ],
+    "features": [
+      "Story engine",
+      "Show don't tell tool",
+      "Brainstorming",
+      "Pacing adjustments"
+    ],
+    "bestFor": [
+      "Novelists",
+      "Screenwriters",
+      "Creative writers"
+    ],
+    "url": "https://sudowrite.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "rytr",
+    "name": "Rytr",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A highly accessible and affordable AI writing companion for drafting emails, blogs, and short-form marketing content.",
+    "tags": [
+      "drafting",
+      "accessible",
+      "general-writing"
+    ],
+    "features": [
+      "Multiple tones",
+      "Use-case templates",
+      "Built-in editor",
+      "Plagiarism checker"
+    ],
+    "bestFor": [
+      "Solopreneurs",
+      "Small businesses",
+      "Budget-conscious creators"
+    ],
+    "url": "https://rytr.me",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "writesonic",
+    "name": "Writesonic",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An SEO-optimized AI writer that helps craft compelling articles, blogs, and marketing copy connected to real-time search data.",
+    "tags": [
+      "seo",
+      "blogging",
+      "marketing"
+    ],
+    "features": [
+      "Real-time data",
+      "SEO checker",
+      "Brand voice",
+      "One-click article generation"
+    ],
+    "bestFor": [
+      "SEO professionals",
+      "Content marketers",
+      "Bloggers"
+    ],
+    "url": "https://writesonic.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "sitekick-ai",
+    "name": "Sitekick",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI generator focused entirely on rapidly creating, writing, and optimizing high-converting landing pages.",
+    "tags": [
+      "landing-pages",
+      "web-design",
+      "copy"
+    ],
+    "features": [
+      "One-click generation",
+      "Conversion optimized copy",
+      "Design integration",
+      "Hosting options"
+    ],
+    "bestFor": [
+      "Web developers",
+      "Marketers",
+      "Startup founders"
+    ],
+    "url": "https://sitekick.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "makelanding-ai",
+    "name": "MakeLanding",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A tool that generates complete, high-quality landing pages including structure, copy, and images in seconds from a simple prompt.",
+    "tags": [
+      "landing-pages",
+      "generation",
+      "web"
+    ],
+    "features": [
+      "AI copywriting",
+      "Logo generation",
+      "Illustration generation",
+      "Site editor"
+    ],
+    "bestFor": [
+      "Indie hackers",
+      "Entrepreneurs",
+      "Product launches"
+    ],
+    "url": "https://makelanding.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "uplifted-ai",
+    "name": "Uplifted AI",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized marketing tool utilizing AI to transform customer experiences and feedback into compelling marketing narratives.",
+    "tags": [
+      "marketing",
+      "ugc",
+      "narratives"
+    ],
+    "features": [
+      "Storytelling engine",
+      "Customer voice extraction",
+      "Asset generation",
+      "Campaign management"
+    ],
+    "bestFor": [
+      "Brand managers",
+      "Customer advocacy teams",
+      "Marketing"
+    ],
+    "url": "https://uplifted.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "ugcscripts",
+    "name": "UGCscripts",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A niche AI writing tool designed to effortlessly craft compelling, hook-driven scripts for User Generated Content creators.",
+    "tags": [
+      "scripts",
+      "ugc",
+      "marketing"
+    ],
+    "features": [
+      "Viral hooks",
+      "Direct response frameworks",
+      "Tone adjustment",
+      "Brand briefs"
+    ],
+    "bestFor": [
+      "UGC creators",
+      "Social media marketers",
+      "Media buyers"
+    ],
+    "url": "https://ugcscripts.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "paperpal",
+    "name": "Paperpal",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive AI academic writing and editing workspace tailored for researchers preparing journal submissions.",
+    "tags": [
+      "academic",
+      "editing",
+      "research"
+    ],
+    "features": [
+      "Journal fit analysis",
+      "Academic grammar check",
+      "Reference checking",
+      "AI detection"
+    ],
+    "bestFor": [
+      "Academic researchers",
+      "Ph.D. students",
+      "Scientists"
+    ],
+    "url": "https://paperpal.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A ubiquitous AI writing assistant focused on improving grammar, clarity, tone, and professional style across all applications.",
+    "tags": [
+      "grammar",
+      "editing",
+      "professional"
+    ],
+    "features": [
+      "Real-time correction",
+      "Tone adjustment",
+      "Plagiarism checker",
+      "Generative drafting"
+    ],
+    "bestFor": [
+      "Professionals",
+      "Students",
+      "General writing"
+    ],
+    "url": "https://grammarly.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "wordtune",
+    "name": "Wordtune",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI tool that rewrites sentences for improved fluency, clarity, and tonal appropriateness without changing the core meaning.",
+    "tags": [
+      "rewriting",
+      "editing",
+      "clarity"
+    ],
+    "features": [
+      "Sentence rewriting",
+      "Tone shifting",
+      "Length adjustment",
+      "AI summaries"
+    ],
+    "bestFor": [
+      "Non-native speakers",
+      "Copywriters",
+      "Professional communication"
+    ],
+    "url": "https://wordtune.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "elephas",
+    "name": "Elephas",
+    "category": "Writing",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A personal AI writing assistant built natively for macOS, integrating seamlessly across various desktop applications.",
+    "tags": [
+      "macos",
+      "native",
+      "assistant"
+    ],
+    "features": [
+      "Native macOS integration",
+      "Super brain context",
+      "Key combination triggers",
+      "Privacy focused"
+    ],
+    "bestFor": [
+      "Mac users",
+      "Writers",
+      "Knowledge workers"
+    ],
+    "url": "https://elephas.app",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "category": "Coding",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An industry-standard inline AI coding assistant and agent integrated directly into major IDEs, serving millions of developers.",
+    "tags": [
+      "autocomplete",
+      "ide",
+      "developer-tools"
+    ],
+    "features": [
+      "Inline suggestions",
+      "Codebase indexing",
+      "Chat interface",
+      "Pull request summaries"
+    ],
+    "bestFor": [
+      "Software engineers",
+      "Code review",
+      "Enterprise development"
+    ],
+    "url": "https://github.com/features/copilot",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An advanced AI code editor built as a fork of VS Code, featuring deep codebase-aware chat and predictive edits.",
+    "tags": [
+      "ide",
+      "codebase-aware",
+      "generation"
+    ],
+    "features": [
+      "Codebase awareness",
+      "AI fast edit",
+      "Multi-file generation",
+      "Terminal debugging"
+    ],
+    "bestFor": [
+      "Full-stack developers",
+      "Rapid prototyping",
+      "Refactoring"
+    ],
+    "url": "https://cursor.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "codeium",
+    "name": "Codeium",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A highly capable AI coding assistant supporting over 70 languages across multiple editors, offering a robust free tier.",
+    "tags": [
+      "autocomplete",
+      "multi-language",
+      "free-tier"
+    ],
+    "features": [
+      "Lightning fast autocomplete",
+      "In-editor chat",
+      "Enterprise security",
+      "Universal editor support"
+    ],
+    "bestFor": [
+      "Individual developers",
+      "Students",
+      "Enterprise teams"
+    ],
+    "url": "https://codeium.com",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "tabnine",
+    "name": "Tabnine",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A privacy-first AI code completion tool offering local models, on-premise options, and ethically sourced training data.",
+    "tags": [
+      "privacy",
+      "local",
+      "autocomplete"
+    ],
+    "features": [
+      "Zero data retention",
+      "Local inference",
+      "Ethical training",
+      "IDE agnostic"
+    ],
+    "bestFor": [
+      "Security-conscious enterprises",
+      "Proprietary codebases",
+      "Regulated industries"
+    ],
+    "url": "https://tabnine.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "continue",
+    "name": "Continue",
+    "category": "Coding",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source AI coding assistant extension allowing developers to connect custom LLMs and create bespoke workflows in the IDE.",
+    "tags": [
+      "open-source",
+      "custom-models",
+      "extension"
+    ],
+    "features": [
+      "BYOM (Bring Your Own Model)",
+      "Custom commands",
+      "Context providers",
+      "Open source"
+    ],
+    "bestFor": [
+      "Tinkerers",
+      "Local LLM users",
+      "Custom workflows"
+    ],
+    "url": "https://continue.dev",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "supermaven",
+    "name": "Supermaven",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An ultra-fast AI code completion tool featuring an exceptionally large context window for deep repository understanding.",
+    "tags": [
+      "fast",
+      "context-window",
+      "completion"
+    ],
+    "features": [
+      "1-million token context",
+      "Low latency",
+      "Deep codebase reasoning",
+      "In-IDE autocomplete"
+    ],
+    "bestFor": [
+      "Large monolithic codebases",
+      "Senior developers",
+      "Complex architectures"
+    ],
+    "url": "https://supermaven.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "junie",
+    "name": "Junie",
+    "category": "Coding",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "JetBrains' dedicated, integrated AI agent offering deep context awareness natively within their entire suite of IDEs.",
+    "tags": [
+      "jetbrains",
+      "agent",
+      "context"
+    ],
+    "features": [
+      "Native IntelliJ integration",
+      "Contextual refactoring",
+      "Commit message generation",
+      "Code explanation"
+    ],
+    "bestFor": [
+      "JetBrains users",
+      "Java developers",
+      "Python developers"
+    ],
+    "url": "https://jetbrains.com/ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "gemini-code-assist",
+    "name": "Gemini Code Assist",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Google's AI coding assistant deeply integrated with Google Cloud infrastructure and major IDEs for enterprise development.",
+    "tags": [
+      "google-cloud",
+      "enterprise",
+      "autocomplete"
+    ],
+    "features": [
+      "Cloud architecture assistance",
+      "Code completion",
+      "Security vulnerability scanning",
+      "Extensive context"
+    ],
+    "bestFor": [
+      "GCP developers",
+      "Cloud architects",
+      "Enterprise teams"
+    ],
+    "url": "https://cloud.google.com/gemini/docs/codeassist",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "amazon-q-developer",
+    "name": "Amazon Q Developer",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "AWS's evolution of CodeWhisperer, offering multi-file agents and deep integration with Amazon Web Services infrastructure.",
+    "tags": [
+      "aws",
+      "agents",
+      "cloud"
+    ],
+    "features": [
+      "AWS architecture optimization",
+      "Multi-file planning",
+      "Security scanning",
+      "Legacy code upgrading"
+    ],
+    "bestFor": [
+      "AWS developers",
+      "Cloud engineers",
+      "System administrators"
+    ],
+    "url": "https://aws.amazon.com/q/developer",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "cline",
+    "name": "Cline",
+    "category": "Coding",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An autonomous VS Code agent capable of planning and executing complex, multi-step software engineering tasks using provided models.",
+    "tags": [
+      "agent",
+      "autonomous",
+      "vs-code"
+    ],
+    "features": [
+      "Plan and Act modes",
+      "Zero markup BYOM",
+      "Terminal execution",
+      "File creation"
+    ],
+    "bestFor": [
+      "Autonomous coding",
+      "Scaffolding projects",
+      "Automated debugging"
+    ],
+    "url": "https://cline.bot",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "kilo-code",
+    "name": "Kilo Code",
+    "category": "Coding",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source coding tool integrating hundreds of models via OpenRouter, featuring four structured architectural modes.",
+    "tags": [
+      "open-source",
+      "multi-model",
+      "architecture"
+    ],
+    "features": [
+      "Architect mode",
+      "Debug mode",
+      "Orchestrator",
+      "OpenRouter integration"
+    ],
+    "bestFor": [
+      "System architecture",
+      "Model benchmarking",
+      "Open-source developers"
+    ],
+    "url": "https://kilocode.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "roo-code",
+    "name": "Roo Code",
+    "category": "Coding",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source VS Code extension branching from Cline, highly optimized for executing large, multi-file codebase changes safely.",
+    "tags": [
+      "open-source",
+      "multi-file",
+      "extension"
+    ],
+    "features": [
+      "Large codebase refactoring",
+      "Safety boundaries",
+      "Terminal control",
+      "Custom models"
+    ],
+    "bestFor": [
+      "Refactoring",
+      "Large migrations",
+      "Autonomous development"
+    ],
+    "url": "https://roocode.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "augment-code",
+    "name": "Augment Code",
+    "category": "Coding",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An enterprise-grade AI coding assistant featuring a world-class context engine designed for extremely large code repositories.",
+    "tags": [
+      "enterprise",
+      "context",
+      "performance"
+    ],
+    "features": [
+      "High SWE-bench scores",
+      "Deep repository indexing",
+      "Security compliance",
+      "Team context sharing"
+    ],
+    "bestFor": [
+      "Enterprise software teams",
+      "Complex monolithic repos",
+      "Security-first engineering"
+    ],
+    "url": "https://augmentcode.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "sourcegraph-cody",
+    "name": "Cody",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI assistant by Sourcegraph renowned for its deep codebase indexing and unparalleled cross-repository context capabilities.",
+    "tags": [
+      "indexing",
+      "cross-repo",
+      "context"
+    ],
+    "features": [
+      "Enterprise graph integration",
+      "Code explanation",
+      "Test generation",
+      "Multi-repo context"
+    ],
+    "bestFor": [
+      "Large engineering orgs",
+      "Codebase exploration",
+      "Onboarding developers"
+    ],
+    "url": "https://sourcegraph.com/cody",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "blackbox-ai",
+    "name": "Blackbox",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI code completion, chat, and explanation search engine tailored specifically for developers seeking quick answers.",
+    "tags": [
+      "search",
+      "explanation",
+      "chat"
+    ],
+    "features": [
+      "Code search engine",
+      "Snippet explanation",
+      "Multi-language support",
+      "IDE integrations"
+    ],
+    "bestFor": [
+      "Junior developers",
+      "Quick debugging",
+      "Snippet management"
+    ],
+    "url": "https://blackbox.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "snyk-code",
+    "name": "Snyk Code",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-driven security scanning tool providing real-time vulnerability detection and remediation directly within the IDE.",
+    "tags": [
+      "security",
+      "scanning",
+      "vulnerabilities"
+    ],
+    "features": [
+      "Real-time SAST",
+      "AI fix suggestions",
+      "Dependency scanning",
+      "Compliance tracking"
+    ],
+    "bestFor": [
+      "DevSecOps",
+      "Security engineers",
+      "Compliance teams"
+    ],
+    "url": "https://snyk.io/product/snyk-code",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "qodo",
+    "name": "Qodo",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized AI tool focused on generating comprehensive unit tests, enforcing code quality, and automating PR reviews.",
+    "tags": [
+      "testing",
+      "quality",
+      "pr-review"
+    ],
+    "features": [
+      "Automated test generation",
+      "PR review agents",
+      "Quality gates",
+      "Code coverage analysis"
+    ],
+    "bestFor": [
+      "QA engineers",
+      "Test-driven development",
+      "CI/CD pipelines"
+    ],
+    "url": "https://qodo.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "marscode",
+    "name": "MarsCode",
+    "category": "Coding",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI coding assistant and online cloud IDE companion designed by ByteDance for streamlined web and application development.",
+    "tags": [
+      "cloud-ide",
+      "assistant",
+      "web-dev"
+    ],
+    "features": [
+      "Cloud workspace",
+      "Code completion",
+      "Deployment hosting",
+      "Template projects"
+    ],
+    "bestFor": [
+      "Web developers",
+      "Hackathons",
+      "Rapid deployment"
+    ],
+    "url": "https://marscode.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "replit-ai",
+    "name": "Replit AI",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive AI suite built natively into Replit's cloud development environment, optimizing code generation and hosting.",
+    "tags": [
+      "cloud-ide",
+      "native",
+      "accessible"
+    ],
+    "features": [
+      "Ghostwriter autocomplete",
+      "In-cloud execution",
+      "Mobile coding",
+      "Deployment agents"
+    ],
+    "bestFor": [
+      "Beginners",
+      "Rapid prototyping",
+      "Collaborative coding"
+    ],
+    "url": "https://replit.com/ai",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "The industry-leading platform for creating ultra-realistic AI voices, voice cloning, and dynamic audio generation.",
+    "tags": [
+      "text-to-speech",
+      "cloning",
+      "realistic"
+    ],
+    "features": [
+      "Voice cloning",
+      "High-fidelity TTS",
+      "Multilingual support",
+      "Emotion control"
+    ],
+    "bestFor": [
+      "Content creators",
+      "Audiobook production",
+      "Game development"
+    ],
+    "url": "https://elevenlabs.io",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "resemble-ai",
+    "name": "Resemble AI",
+    "category": "Audio",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An enterprise platform for generating custom AI voices, performing secure voice cloning, and localizing audio content.",
+    "tags": [
+      "cloning",
+      "enterprise",
+      "text-to-speech"
+    ],
+    "features": [
+      "Secure voice cloning",
+      "Deepfake detection",
+      "API integrations",
+      "Localization"
+    ],
+    "bestFor": [
+      "Enterprise call centers",
+      "Game studios",
+      "Media localization"
+    ],
+    "url": "https://resemble.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "wellsaid",
+    "name": "WellSaid Labs",
+    "category": "Audio",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized tool that converts text to high-fidelity voice in real-time, optimized heavily for corporate training and presentations.",
+    "tags": [
+      "text-to-speech",
+      "corporate",
+      "fidelity"
+    ],
+    "features": [
+      "Corporate voice avatars",
+      "Collaboration tools",
+      "Pronunciation libraries",
+      "Real-time generation"
+    ],
+    "bestFor": [
+      "Corporate L&D",
+      "Internal communications",
+      "Explainer videos"
+    ],
+    "url": "https://wellsaidlabs.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "play-ht",
+    "name": "Play.ht",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A versatile AI voice generator offering a vast library of realistic text-to-speech voices for diverse audio projects.",
+    "tags": [
+      "text-to-speech",
+      "library",
+      "generation"
+    ],
+    "features": [
+      "Vast voice library",
+      "Podcast generation",
+      "Widget embedding",
+      "API access"
+    ],
+    "bestFor": [
+      "Bloggers",
+      "Podcasters",
+      "Content marketers"
+    ],
+    "url": "https://play.ht",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "soundful",
+    "name": "Soundful",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A platform that revolutionizes music creation by generating diverse, royalty-free background tracks tailored by genre and mood.",
+    "tags": [
+      "music",
+      "royalty-free",
+      "generation"
+    ],
+    "features": [
+      "Genre specific generation",
+      "Royalty-free licensing",
+      "Stems export",
+      "Mood selection"
+    ],
+    "bestFor": [
+      "Video editors",
+      "Streamers",
+      "Podcast producers"
+    ],
+    "url": "https://soundful.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "category": "Business",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI assistant deeply integrated into the Notion workspace, automating writing, brainstorming, and organizational knowledge retrieval.",
+    "tags": [
+      "workspace",
+      "knowledge",
+      "writing"
+    ],
+    "features": [
+      "Q&A knowledge retrieval",
+      "Text summarization",
+      "Content drafting",
+      "Database autofill"
+    ],
+    "bestFor": [
+      "Startups",
+      "Knowledge workers",
+      "Project management"
+    ],
+    "url": "https://notion.so/product/ai",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "hubspot-ai",
+    "name": "HubSpot AI",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive suite of AI tools embedded within the HubSpot CRM for automating sales pipelines, marketing content, and data analytics.",
+    "tags": [
+      "crm",
+      "sales",
+      "automation"
+    ],
+    "features": [
+      "AI content generation",
+      "Predictive lead scoring",
+      "Sales forecasting",
+      "Chatbots"
+    ],
+    "bestFor": [
+      "Sales teams",
+      "Marketing departments",
+      "Enterprise CRM"
+    ],
+    "url": "https://hubspot.com/ai",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "docengage",
+    "name": "DocEngage",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Comprehensive healthcare CRM and EHR software utilizing automation to manage patient care, remote monitoring, and clinic operations.",
+    "tags": [
+      "healthcare",
+      "crm",
+      "ehr"
+    ],
+    "features": [
+      "Remote patient care",
+      "EHR integration",
+      "Sales pipeline management",
+      "Telehealth"
+    ],
+    "bestFor": [
+      "Hospitals",
+      "Clinic chains",
+      "Home healthcare"
+    ],
+    "url": "https://docengage.in",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "medplix",
+    "name": "Medplix",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-powered operating system designed to holistically manage hospitals, clinics, labs, and pharmacies with integrated billing.",
+    "tags": [
+      "healthcare",
+      "management",
+      "operations"
+    ],
+    "features": [
+      "OPD/IPD management",
+      "Lab integration",
+      "Pharmacy POS",
+      "GST billing"
+    ],
+    "bestFor": [
+      "Indian healthcare providers",
+      "Clinical labs",
+      "Pharmacies"
+    ],
+    "url": "https://medplix.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "lyrebird-health",
+    "name": "Lyrebird Health",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An ambient AI scribe that securely listens to medical consultations and intelligently generates structured clinical notes tailored to practitioner styles.",
+    "tags": [
+      "healthcare",
+      "scribe",
+      "transcription"
+    ],
+    "features": [
+      "Ambient listening",
+      "Custom templates",
+      "EMR integration",
+      "Privacy compliance"
+    ],
+    "bestFor": [
+      "General practitioners",
+      "Specialists",
+      "Medical clinics"
+    ],
+    "url": "https://lyrebirdhealth.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "tandem-health",
+    "name": "Tandem Health",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A European-compliant clinical AI co-pilot that captures consultations to auto-generate referrals, sick notes, and structured visit summaries.",
+    "tags": [
+      "healthcare",
+      "scribe",
+      "compliance"
+    ],
+    "features": [
+      "MDR Class IIa certification",
+      "Auto-coding",
+      "EHR integrations",
+      "Document generation"
+    ],
+    "bestFor": [
+      "European healthcare systems",
+      "Clinicians",
+      "Mental health professionals"
+    ],
+    "url": "https://tandemhealth.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "notable",
+    "name": "Notable",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An enterprise healthcare platform deploying AI agents to automate patient access, scheduling, and revenue cycle operations.",
+    "tags": [
+      "healthcare",
+      "enterprise",
+      "automation"
+    ],
+    "features": [
+      "Patient access automation",
+      "Revenue cycle management",
+      "Multi-channel strategy",
+      "Care gap closure"
+    ],
+    "bestFor": [
+      "Large health systems",
+      "Hospital administration",
+      "Revenue cycle teams"
+    ],
+    "url": "https://notablehealth.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "freed",
+    "name": "Freed",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An ambient AI clinician assistant that instantly generates accurate notes, medical codes, and letters from patient visits.",
+    "tags": [
+      "healthcare",
+      "scribe",
+      "clinical"
+    ],
+    "features": [
+      "SOAP note generation",
+      "ICD-10 coding",
+      "AI receptionist",
+      "Clinical evidence lookup"
+    ],
+    "bestFor": [
+      "Physicians",
+      "Private practices",
+      "Nurses"
+    ],
+    "url": "https://getfreed.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "qure-ai",
+    "name": "Qure.ai",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Advanced medical imaging AI evaluated by the WHO to support clinicians in rapid, accurate diagnosis and stroke care intervention.",
+    "tags": [
+      "healthcare",
+      "radiology",
+      "diagnostics"
+    ],
+    "features": [
+      "X-ray analysis",
+      "CT/MRI triage",
+      "Tuberculosis detection",
+      "Stroke care coordination"
+    ],
+    "bestFor": [
+      "Radiologists",
+      "Public health organizations",
+      "Hospitals"
+    ],
+    "url": "https://qure.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "dragon-copilot",
+    "name": "Dragon Copilot",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Microsoft's clinical AI assistant built to streamline documentation, surface critical information, and automate healthcare workflows.",
+    "tags": [
+      "healthcare",
+      "microsoft",
+      "documentation"
+    ],
+    "features": [
+      "Epic EHR integration",
+      "Ambient capture",
+      "Nursing flowsheet automation",
+      "Radiology reporting"
+    ],
+    "bestFor": [
+      "Enterprise health systems",
+      "Nurses",
+      "Physicians"
+    ],
+    "url": "https://microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "farsite",
+    "name": "FARSITE",
+    "category": "Business",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Specialized AI-powered compliance software designed specifically for navigating the complex regulations of U.S. Government Contracting.",
+    "tags": [
+      "compliance",
+      "government",
+      "legal"
+    ],
+    "features": [
+      "Regulatory tracking",
+      "Contract analysis",
+      "Compliance automation",
+      "Risk assessment"
+    ],
+    "bestFor": [
+      "Defense contractors",
+      "Government suppliers",
+      "Legal teams"
+    ],
+    "url": "https://farsite.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "elicit",
+    "name": "Elicit",
+    "category": "Research",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI research assistant that automates systematic literature reviews and data extraction directly from millions of academic papers.",
+    "tags": [
+      "academic",
+      "literature-review",
+      "extraction"
+    ],
+    "features": [
+      "Systematic reviews",
+      "Data extraction",
+      "Semantic search",
+      "Citation mapping"
+    ],
+    "bestFor": [
+      "Academic researchers",
+      "Pharma R&D",
+      "Policy analysts"
+    ],
+    "url": "https://elicit.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "consensus",
+    "name": "Consensus",
+    "category": "Research",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-powered academic search engine that extracts and synthesizes evidence-backed answers directly from scientific literature.",
+    "tags": [
+      "search",
+      "academic",
+      "evidence"
+    ],
+    "features": [
+      "Consensus meter",
+      "Source grounding",
+      "Evidence synthesis",
+      "Study design filters"
+    ],
+    "bestFor": [
+      "Scientists",
+      "Students",
+      "Fact-checkers"
+    ],
+    "url": "https://consensus.app",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "scispace",
+    "name": "SciSpace",
+    "category": "Research",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A robust platform allowing users to chat with scientific PDFs, extract data, and compare research papers via an AI-powered workspace.",
+    "tags": [
+      "academic",
+      "pdf",
+      "comparison"
+    ],
+    "features": [
+      "PDF chat",
+      "Literature matrix",
+      "Citation generation",
+      "Math/table extraction"
+    ],
+    "bestFor": [
+      "Literature reviews",
+      "Ph.D. candidates",
+      "STEM research"
+    ],
+    "url": "https://scispace.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "notebooklm",
+    "name": "NotebookLM",
+    "category": "Research",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Google's experimental AI notebook designed for source-grounded Q&A, study guides, and synthesizing user-uploaded documents.",
+    "tags": [
+      "google",
+      "synthesis",
+      "grounding"
+    ],
+    "features": [
+      "Audio overviews",
+      "Source citations",
+      "Study guide generation",
+      "Document chat"
+    ],
+    "bestFor": [
+      "Students",
+      "Researchers",
+      "Writers"
+    ],
+    "url": "https://notebooklm.google.com",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "researchpal",
+    "name": "ResearchPal",
+    "category": "Research",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An end-to-end AI academic research companion for discovering papers, chatting with PDFs, and automatically formatting citations.",
+    "tags": [
+      "academic",
+      "citations",
+      "workflow"
+    ],
+    "features": [
+      "Literature review automation",
+      "PDF chat",
+      "Reference management",
+      "Insight extraction"
+    ],
+    "bestFor": [
+      "Academic writers",
+      "Researchers",
+      "University students"
+    ],
+    "url": "https://researchpal.co",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "litmaps",
+    "name": "Litmaps",
+    "category": "Research",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A visual mapping tool that plots citation networks to help researchers track progress and discover connected academic literature.",
+    "tags": [
+      "visualization",
+      "citations",
+      "discovery"
+    ],
+    "features": [
+      "Citation mapping",
+      "Visual research tracking",
+      "Literature recommendations",
+      "Collaboration"
+    ],
+    "bestFor": [
+      "Literature discovery",
+      "Citation tracking",
+      "Academics"
+    ],
+    "url": "https://litmaps.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "semantic-scholar",
+    "name": "Semantic Scholar",
+    "category": "Research",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A free, AI-powered academic search engine covering hundreds of millions of papers, offering AI-generated summaries (TLDRs).",
+    "tags": [
+      "search",
+      "academic",
+      "summaries"
+    ],
+    "features": [
+      "AI TLDRs",
+      "Citation analysis",
+      "Author tracking",
+      "API access"
+    ],
+    "bestFor": [
+      "Initial literature discovery",
+      "Researchers",
+      "Students"
+    ],
+    "url": "https://semanticscholar.org",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "scite",
+    "name": "Scite",
+    "category": "Research",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A research platform utilizing Smart Citations to display the exact context of how a paper was cited (supporting, contrasting, or neutral).",
+    "tags": [
+      "citations",
+      "academic",
+      "analysis"
+    ],
+    "features": [
+      "Citation context analysis",
+      "Smart Citations",
+      "Scite Assistant",
+      "Browser extension"
+    ],
+    "bestFor": [
+      "Evaluating research quality",
+      "Fact-checking",
+      "Academics"
+    ],
+    "url": "https://scite.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "explainpaper",
+    "name": "Explainpaper",
+    "category": "Research",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A utility allowing users to upload academic papers, highlight confusing text, and receive simplified, jargon-free AI explanations.",
+    "tags": [
+      "academic",
+      "comprehension",
+      "utility"
+    ],
+    "features": [
+      "Text highlighting",
+      "Simplification",
+      "Follow-up questions",
+      "PDF support"
+    ],
+    "bestFor": [
+      "Undergraduate students",
+      "Cross-disciplinary reading",
+      "Complex papers"
+    ],
+    "url": "https://explainpaper.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "sourcely",
+    "name": "Sourcely",
+    "category": "Research",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An academic citation finding tool that identifies relevant scientific sources to back up uploaded user drafts or notes.",
+    "tags": [
+      "citations",
+      "academic",
+      "drafting"
+    ],
+    "features": [
+      "Source matching",
+      "Draft analysis",
+      "Citation gap identification",
+      "Formatting"
+    ],
+    "bestFor": [
+      "Essay writing",
+      "Literature reviews",
+      "Students"
+    ],
+    "url": "https://sourcely.net",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "genei",
+    "name": "Genei",
+    "category": "Research",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-powered research and note-taking tool that summarizes academic articles and extracts key information in seconds.",
+    "tags": [
+      "summarization",
+      "notes",
+      "academic"
+    ],
+    "features": [
+      "Document summarization",
+      "Keyword extraction",
+      "Note organization",
+      "Reference management"
+    ],
+    "bestFor": [
+      "Researchers",
+      "Writers",
+      "Students"
+    ],
+    "url": "https://genei.io",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "galactica",
+    "name": "Galactica",
+    "category": "Research",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source language model specialized for science, capable of summarizing literature, solving math, and annotating molecules.",
+    "tags": [
+      "open-source",
+      "science",
+      "llm"
+    ],
+    "features": [
+      "Scientific synthesis",
+      "Math solving",
+      "Protein annotation",
+      "Scientific code generation"
+    ],
+    "bestFor": [
+      "STEM researchers",
+      "Biologists",
+      "Data scientists"
+    ],
+    "url": "https://galactica.org",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "mathos-ai",
+    "name": "Mathos AI",
+    "category": "Education",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A specialized AI mathematical solver, advanced calculator, and personalized tutoring platform for students and educators.",
+    "tags": [
+      "math",
+      "tutoring",
+      "solver"
+    ],
+    "features": [
+      "Step-by-step solutions",
+      "Formula recognition",
+      "Interactive tutoring",
+      "Multi-disciplinary math"
+    ],
+    "bestFor": [
+      "Math students",
+      "Educators",
+      "Engineering students"
+    ],
+    "url": "https://mathos.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "socratic",
+    "name": "Socratic",
+    "category": "Education",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Google's AI educational app providing visual aids, study guides, and step-by-step explanations across diverse academic subjects.",
+    "tags": [
+      "google",
+      "learning",
+      "mobile"
+    ],
+    "features": [
+      "Photo search",
+      "Subject guides",
+      "Visual explanations",
+      "Voice queries"
+    ],
+    "bestFor": [
+      "High school students",
+      "Homework help",
+      "Self-study"
+    ],
+    "url": "https://socratic.org",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "mem",
+    "name": "Mem",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI-powered workspace that automatically organizes notes and surfaces relevant information based on the user's context.",
+    "tags": [
+      "workspace",
+      "notes",
+      "organization"
+    ],
+    "features": [
+      "Self-organizing workspace",
+      "Smart search",
+      "AI writing assistant",
+      "Knowledge graph"
+    ],
+    "bestFor": [
+      "Knowledge workers",
+      "Founders",
+      "Researchers"
+    ],
+    "url": "https://mem.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "taskade",
+    "name": "Taskade",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A unified workspace for building and deploying autonomous AI agents for team collaboration, task management, and workflow automation.",
+    "tags": [
+      "collaboration",
+      "agents",
+      "tasks"
+    ],
+    "features": [
+      "Multi-agent deployment",
+      "Project management",
+      "Mind mapping",
+      "Video chat"
+    ],
+    "bestFor": [
+      "Remote teams",
+      "Agencies",
+      "Project managers"
+    ],
+    "url": "https://taskade.com",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "nekton-ai",
+    "name": "Nekton AI",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A platform for automating personal and professional workflows by describing processes step-by-step in plain language.",
+    "tags": [
+      "automation",
+      "workflows",
+      "plain-language"
+    ],
+    "features": [
+      "Natural language automation",
+      "App integration",
+      "Step-by-step execution",
+      "No-code builder"
+    ],
+    "bestFor": [
+      "Operations teams",
+      "Founders",
+      "Non-technical users"
+    ],
+    "url": "https://nekton.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "otter-ai",
+    "name": "Otter.ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A widely used AI meeting assistant that records, transcribes, and generates actionable summaries for virtual and in-person meetings.",
+    "tags": [
+      "transcription",
+      "meetings",
+      "summaries"
+    ],
+    "features": [
+      "Real-time transcription",
+      "Action item extraction",
+      "Meeting bot",
+      "Audio import"
+    ],
+    "bestFor": [
+      "Sales calls",
+      "Team meetings",
+      "Interviews"
+    ],
+    "url": "https://otter.ai",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An enterprise-grade AI meeting recorder and transcriber integrated seamlessly with major conferencing platforms and CRMs.",
+    "tags": [
+      "transcription",
+      "enterprise",
+      "meetings"
+    ],
+    "features": [
+      "Conversation intelligence",
+      "CRM logging",
+      "Topic tracking",
+      "Voice commands"
+    ],
+    "bestFor": [
+      "Sales teams",
+      "Customer success",
+      "Management"
+    ],
+    "url": "https://fireflies.ai",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "emilio",
+    "name": "Emilio",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI email management tool designed to automatically prioritize incoming messages and draft contextual, accurate responses.",
+    "tags": [
+      "email",
+      "inbox",
+      "management"
+    ],
+    "features": [
+      "Inbox prioritization",
+      "Draft generation",
+      "Contextual replies",
+      "Spam filtering"
+    ],
+    "bestFor": [
+      "Executives",
+      "Customer support",
+      "Busy professionals"
+    ],
+    "url": "https://emilio.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A universal workflow automation platform leveraging AI to intelligently connect and trigger thousands of disparate web applications.",
+    "tags": [
+      "automation",
+      "integrations",
+      "workflows"
+    ],
+    "features": [
+      "AI Zap builder",
+      "Conditional logic",
+      "Webhooks",
+      "App ecosystem"
+    ],
+    "bestFor": [
+      "Operations",
+      "Marketing automation",
+      "Small businesses"
+    ],
+    "url": "https://zapier.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "category": "AI Agents",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive open-source framework and observability platform for developing complex, multi-step LLM applications and agents.",
+    "tags": [
+      "framework",
+      "orchestration",
+      "llm"
+    ],
+    "features": [
+      "Agent orchestration",
+      "LangSmith observability",
+      "Tool integration",
+      "Memory management"
+    ],
+    "bestFor": [
+      "AI engineers",
+      "Enterprise development",
+      "Complex AI systems"
+    ],
+    "url": "https://langchain.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "llamaindex",
+    "name": "LlamaIndex",
+    "category": "AI Agents",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A data-centric orchestration framework optimized for parsing, indexing, and connecting enterprise data to LLMs for advanced RAG.",
+    "tags": [
+      "rag",
+      "orchestration",
+      "data"
+    ],
+    "features": [
+      "LlamaParse OCR",
+      "Data connectors",
+      "Vector indexing",
+      "Query engines"
+    ],
+    "bestFor": [
+      "RAG application developers",
+      "Data engineers",
+      "Knowledge systems"
+    ],
+    "url": "https://llamaindex.ai",
+    "featured": true,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "category": "AI Agents",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A fair-code workflow automation platform enabling the visual construction of complex, self-hosted AI agent pipelines.",
+    "tags": [
+      "automation",
+      "visual",
+      "pipelines"
+    ],
+    "features": [
+      "Visual node editor",
+      "Self-hosting",
+      "AI agent nodes",
+      "Extensive integrations"
+    ],
+    "bestFor": [
+      "Technical operations",
+      "Developers",
+      "Data engineers"
+    ],
+    "url": "https://n8n.io",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "marketingblocks",
+    "name": "MarketingBlocks",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An all-in-one AI platform generating comprehensive marketing assets, including copy, design, landing pages, and promotional videos.",
+    "tags": [
+      "assets",
+      "all-in-one",
+      "generation"
+    ],
+    "features": [
+      "Copywriting",
+      "Graphic design",
+      "Video creation",
+      "Landing page builder"
+    ],
+    "bestFor": [
+      "Marketing agencies",
+      "Entrepreneurs",
+      "Small businesses"
+    ],
+    "url": "https://marketingblocks.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "coqui",
+    "name": "Coqui",
+    "category": "Voice",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source generative AI platform tailored for highly realistic voice synthesis and text-to-audio model development.",
+    "tags": [
+      "open-source",
+      "text-to-speech",
+      "synthesis"
+    ],
+    "features": [
+      "Open-source models",
+      "Voice cloning",
+      "Emotion control",
+      "Local deployment"
+    ],
+    "bestFor": [
+      "Developers",
+      "Researchers",
+      "Audio engineers"
+    ],
+    "url": "https://coqui.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "bark",
+    "name": "Bark",
+    "category": "Voice",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An open-source transformer-based text-to-audio model capable of generating highly realistic speech, music, and ambient sound effects.",
+    "tags": [
+      "open-source",
+      "effects",
+      "audio"
+    ],
+    "features": [
+      "Non-speech audio generation",
+      "Multilingual",
+      "Transformer architecture",
+      "Open weights"
+    ],
+    "bestFor": [
+      "AI researchers",
+      "Sound designers",
+      "Creative coders"
+    ],
+    "url": "https://github.com/suno-ai/bark",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "blipcut",
+    "name": "BlipCut",
+    "category": "Voice",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A dedicated AI dubbing tool designed to seamlessly translate and synchronize video audio across multiple languages.",
+    "tags": [
+      "dubbing",
+      "translation",
+      "video"
+    ],
+    "features": [
+      "Lip-syncing",
+      "Auto-translation",
+      "Voice cloning",
+      "Subtitle generation"
+    ],
+    "bestFor": [
+      "YouTube localization",
+      "Corporate training",
+      "Content creators"
+    ],
+    "url": "https://blipcut.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "dupdub",
+    "name": "DupDub",
+    "category": "Voice",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A comprehensive media studio offering robust AI voiceovers, transcription, and text-to-speech capabilities for video producers.",
+    "tags": [
+      "studio",
+      "voiceover",
+      "transcription"
+    ],
+    "features": [
+      "Voiceover generation",
+      "Transcription",
+      "Video editing integration",
+      "Emotion adjustment"
+    ],
+    "bestFor": [
+      "Video producers",
+      "Marketers",
+      "Podcasters"
+    ],
+    "url": "https://dupdub.com",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "rask-ai",
+    "name": "Rask AI",
+    "category": "Voice",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "A video localization platform using AI to translate and dub videos while preserving the original speaker's authentic voice.",
+    "tags": [
+      "localization",
+      "dubbing",
+      "translation"
+    ],
+    "features": [
+      "Voice preservation",
+      "Multispeaker translation",
+      "Lip-sync",
+      "Transcript editing"
+    ],
+    "bestFor": [
+      "EdTech",
+      "Global marketing",
+      "Media localization"
+    ],
+    "url": "https://rask.ai",
+    "featured": false,
+    "trending": true,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "altered",
+    "name": "Altered",
+    "category": "Voice",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Professional voice manipulation software enabling users to change their voice to custom AI profiles for media production.",
+    "tags": [
+      "manipulation",
+      "profiles",
+      "audio"
+    ],
+    "features": [
+      "Voice morphing",
+      "Professional voice actors",
+      "Local processing",
+      "Real-time modulation"
+    ],
+    "bestFor": [
+      "Game development",
+      "Animation",
+      "Podcasting"
+    ],
+    "url": "https://altered.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "meshy",
+    "name": "Meshy",
+    "category": "Design",
+    "pricing": "Paid",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "An AI 3D model generator that rapidly turns text prompts and 2D images into fully textured, production-ready 3D assets.",
+    "tags": [
+      "3d",
+      "generation",
+      "assets"
+    ],
+    "features": [
+      "Image to 3D",
+      "Text to 3D",
+      "PBR texturing",
+      "Model export"
+    ],
+    "bestFor": [
+      "Game developers",
+      "3D artists",
+      "AR/VR creators"
+    ],
+    "url": "https://meshy.ai",
+    "featured": false,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  },
+  {
+    "id": "metahuman",
+    "name": "MetaHuman",
+    "category": "Design",
+    "pricing": "Free",
+    "rating": 0,
+    "reviewCount": 0,
+    "description": "Epic Games' advanced framework for creating, rigging, and animating photorealistic digital humans in minutes for Unreal Engine.",
+    "tags": [
+      "3d",
+      "avatars",
+      "unreal-engine"
+    ],
+    "features": [
+      "Photorealistic rendering",
+      "Auto-rigging",
+      "Facial animation",
+      "Engine integration"
+    ],
+    "bestFor": [
+      "Game studios",
+      "Cinematic production",
+      "VFX artists"
+    ],
+    "url": "https://metahuman.com",
+    "featured": true,
+    "trending": false,
+    "dateAdded": "2026-09-26"
+  }
+]

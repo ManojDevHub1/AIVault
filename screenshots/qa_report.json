@@ -1,0 +1,202 @@
+{
+  "pagesInspected": [
+    "Homepage (index.html)",
+    "AI Chat Category (/category/ai-chat/)",
+    "Coding Category (/category/coding/)",
+    "4. AI Chat Tool: ChatGPT (/tools/chatgpt/)",
+    "5. Image Gen Tool: Midjourney (/tools/midjourney/)",
+    "6. Video Tool: Synthesia (/tools/synthesia/)",
+    "7. Business Tool: HubSpot AI (/tools/hubspot-ai/)",
+    "8. Research Tool: SciSpace (/tools/scispace/)",
+    "9. AI Agents Tool: LangChain (/tools/langchain/)",
+    "10. Voice Tool: ElevenLabs (/tools/elevenlabs/)",
+    "Edge Case: Unrated Tool (008) (/tools/008/)",
+    "Edge Case: 51-char Long Title (/tools/4oimageapi-io-affordable-and-reliable-4o-image-api/)"
+  ],
+  "viewportsInspected": [
+    "1440px",
+    "1024px",
+    "768px",
+    "390px"
+  ],
+  "screenshots": [
+    "01_homepage_1440px_light.png",
+    "02_homepage_1440px_dark.png",
+    "03_homepage_1024px_light.png",
+    "04_homepage_768px_light.png",
+    "05_homepage_390px_light.png",
+    "06_homepage_390px_dark.png",
+    "07_homepage_390px_drawer_open.png",
+    "08_homepage_modal_open_light.png",
+    "09_homepage_modal_open_dark.png",
+    "10_homepage_empty_state.png",
+    "11_category_aichat_1440px_light.png",
+    "12_category_aichat_1440px_dark.png",
+    "13_category_aichat_390px_light.png",
+    "14_category_coding_1440px_light.png",
+    "15_category_coding_768px_light.png",
+    "16_category_coding_390px_light.png",
+    "17_tool_chatgpt_1440px_light.png",
+    "18_tool_chatgpt_1440px_dark.png",
+    "19_tool_chatgpt_1024px_light.png",
+    "20_tool_chatgpt_768px_light.png",
+    "21_tool_chatgpt_390px_light.png",
+    "22_tool_chatgpt_390px_dark.png",
+    "23_tool_midjourney_1440px_light.png",
+    "24_tool_midjourney_390px_light.png",
+    "25_tool_synthesia_1440px_light.png",
+    "26_tool_synthesia_390px_light.png",
+    "27_tool_hubspot-ai_1440px_light.png",
+    "28_tool_hubspot-ai_390px_light.png",
+    "29_tool_scispace_1440px_light.png",
+    "30_tool_scispace_390px_light.png",
+    "31_tool_langchain_1440px_light.png",
+    "32_tool_langchain_390px_light.png",
+    "33_tool_elevenlabs_1440px_light.png",
+    "34_tool_elevenlabs_390px_light.png",
+    "35_tool_008_1440px_light.png",
+    "36_tool_008_390px_light.png",
+    "37_tool_4oimageapi-io-affordable-and-reliable-4o-image-api_1440px_light.png",
+    "38_tool_4oimageapi-io-affordable-and-reliable-4o-image-api_390px_light.png"
+  ],
+  "uxFlows": {
+    "homepage_to_detail": {
+      "linkTarget": "tools/chatgpt/",
+      "navigatedTo": "http://localhost:8000/tools/chatgpt/",
+      "success": true
+    },
+    "detail_to_category": {
+      "breadcrumbHref": "../../category/ai-chat/",
+      "navigatedTo": "http://localhost:8000/category/ai-chat/",
+      "success": true
+    },
+    "category_to_detail": {
+      "cardLink": "../../tools/chatgpt/",
+      "navigatedTo": "http://localhost:8000/tools/chatgpt/",
+      "success": true
+    },
+    "detail_to_related": {
+      "relatedHref": "../../tools/claude/",
+      "navigatedTo": "http://localhost:8000/tools/claude/",
+      "success": true
+    },
+    "history_navigation": {
+      "backUrl": "http://localhost:8000/tools/chatgpt/",
+      "forwardUrl": "http://localhost:8000/tools/claude/",
+      "success": true
+    },
+    "modal_to_detail": {
+      "modalBtnHref": "tools/chatgpt/",
+      "navigatedTo": "http://localhost:8000/tools/chatgpt/",
+      "success": true
+    },
+    "detail_favorite_toggle": {
+      "initialFav": "[]",
+      "afterFav": "[\"chatgpt\"]",
+      "buttonText": "Saved to Favorites",
+      "success": true
+    },
+    "recently_viewed": {
+      "recents": "[\"chatgpt\",\"claude\",\"4oimageapi-io-affordable-and-reliable-4o-image-api\",\"008\",\"elevenlabs\",\"langchain\",\"scispace\",\"hubspot-ai\",\"synthesia\",\"midjourney\"]",
+      "success": true
+    },
+    "theme_toggle": {
+      "initialTheme": "light",
+      "toggledTheme": "dark",
+      "storedTheme": "dark",
+      "success": true
+    },
+    "mobile_drawer": {
+      "drawerOpen": true,
+      "drawerClosed": true,
+      "success": true
+    }
+  },
+  "overflowChecks": {
+    "homepage_390px_light": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "category_aichat_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "category_coding_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_chatgpt_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_midjourney_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_synthesia_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_hubspot-ai_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_scispace_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_langchain_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_elevenlabs_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_008_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    },
+    "tool_4oimageapi-io-affordable-and-reliable-4o-image-api_390px": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasOverflow": false,
+      "bodyScrollWidth": 390,
+      "bodyClientWidth": 390
+    }
+  },
+  "contrastChecks": {}
+}
