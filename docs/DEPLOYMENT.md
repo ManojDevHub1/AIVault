@@ -17,7 +17,7 @@ All canonical links, Open Graph tags, XML sitemaps, and robots.txt directives de
 ### Configuration Location
 In [`scripts/generate-pages.mjs`](../scripts/generate-pages.mjs):
 ```javascript
-export const SITE_URL = process.env.AIVAULT_SITE_URL || 'https://YOUR-DOMAIN.com';
+export const SITE_URL = process.env.AIVAULT_SITE_URL || 'https://aivault-staging.vercel.app';
 ```
 
 ### Setting Production Domain
@@ -34,7 +34,7 @@ node scripts/generate-pages.mjs
 ```
 
 > [!NOTE]
-> If `AIVAULT_SITE_URL` is omitted, the build defaults to the placeholder `https://YOUR-DOMAIN.com`. Always supply your genuine domain for production releases to ensure search crawlers receive correct canonical tags.
+> If `AIVAULT_SITE_URL` is omitted, the build defaults to the placeholder `https://aivault-staging.vercel.app`. Always supply your genuine domain for production releases to ensure search crawlers receive correct canonical tags.
 
 ---
 

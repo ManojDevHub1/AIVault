@@ -78,7 +78,7 @@ The comparison state is stored in browser `localStorage` under the key `aivault_
 ### 5.1 Route & SEO Architecture
 - Static page route: `compare/index.html`.
 - Title: `<title>Compare AI Tools | AIVault</title>`.
-- Canonical URL: `https://YOUR-DOMAIN.com/compare/`.
+- Canonical URL: `https://aivault-staging.vercel.app/compare/`.
 - Open Graph and Twitter Card metadata configured for social sharing.
 
 ### 5.2 Dynamic View States

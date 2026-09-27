@@ -141,7 +141,7 @@ This document details the functional specifications implemented across Phase 1, 
 - **14 Category Hubs:** Static landing pages generated in `category/<category-slug>/index.html`.
 - **Category Content:** Breadcrumb, category title, factual introduction, exact dataset count badge (`211 Listed Tools`), and category switcher pills linking across all 14 hubs.
 - **Full Internal Linking:** Category page cards link directly to each tool's static detail page.
-- **Canonical URLs:** Unique canonical `<link>` tags on every page with configurable `SITE_URL` base (default: `https://YOUR-DOMAIN.com`).
+- **Canonical URLs:** Unique canonical `<link>` tags on every page with configurable `SITE_URL` base (default: `https://aivault-staging.vercel.app`).
 - **Social Metadata:** Unique Open Graph (`og:title`, `og:description`, `og:url`, `og:type`) and Twitter Cards (`summary`).
 - **Structured Data:** Valid JSON-LD `BreadcrumbList` and `SoftwareApplication` graphs on all tool and category pages. Omits fabricated ratings if 0.
 - **XML Sitemap:** Comprehensive `sitemap.xml` containing all 3,953 crawlable URLs (1 home + 14 categories + 3,938 tools).

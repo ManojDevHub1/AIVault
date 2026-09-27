@@ -126,7 +126,7 @@ AIVault/
    - Responsive card grid linking directly to individual static tool detail pages.
 
 4. **Static SEO Architecture:**
-   - **Canonical URLs:** Unique canonical `<link>` tags with configurable `SITE_URL` base (default: `https://YOUR-DOMAIN.com`).
+   - **Canonical URLs:** Unique canonical `<link>` tags with configurable `SITE_URL` base (default: `https://aivault-staging.vercel.app`).
    - **Contextual Metadata:** Natural `<title>`, `<meta name="description">`, Open Graph (`og:title`, `og:description`, `og:url`), and Twitter Cards (`summary`).
    - **JSON-LD Structured Data:** Valid `BreadcrumbList` and `SoftwareApplication` markup. Omits fabricated aggregate ratings when rating is 0.
    - **XML Sitemap:** Auto-generated `sitemap.xml` containing all **3,953 URLs** (1 home + 14 categories + 3,938 tools).

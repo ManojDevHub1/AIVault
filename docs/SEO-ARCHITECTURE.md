@@ -37,7 +37,7 @@ category/
 ### Tool Detail Pages
 - **Pattern:** `/tools/<tool-id>/`
 - **Slug Strategy:** Uses the existing stable unique identifier (`tool.id`) from `data/ai-tools.js`.
-- **Example:** `https://YOUR-DOMAIN.com/tools/github-copilot/`
+- **Example:** `https://aivault-staging.vercel.app/tools/github-copilot/`
 
 ### Category Landing Pages
 - **Pattern:** `/category/<category-slug>/`
@@ -61,7 +61,7 @@ category/
 All canonical URLs, Open Graph tags, Twitter metadata, and structured data reference a single centralized site base URL:
 
 ```javascript
-export const SITE_URL = process.env.AIVAULT_SITE_URL || 'https://YOUR-DOMAIN.com';
+export const SITE_URL = process.env.AIVAULT_SITE_URL || 'https://aivault-staging.vercel.app';
 ```
 
 Site administrators can configure this variable before deployment or in continuous integration without modifying source code.
@@ -137,7 +137,7 @@ Only includes factual attributes present in the dataset:
 ### `robots.txt`
 - Located at the website root (`/robots.txt`).
 - Permits crawling across all search engine agents (`Allow: /`).
-- References the canonical sitemap location (`Sitemap: https://YOUR-DOMAIN.com/sitemap.xml`).
+- References the canonical sitemap location (`Sitemap: https://aivault-staging.vercel.app/sitemap.xml`).
 
 ---
 

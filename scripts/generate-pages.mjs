@@ -31,11 +31,11 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 /**
  * Canonical Site Base URL Configuration
  * 
- * Replace "https://YOUR-DOMAIN.com" with your actual production domain,
+ * Replace "https://aivault-staging.vercel.app" with your actual production domain,
  * or configure it via the AIVAULT_SITE_URL environment variable prior to building.
  * Example: AIVAULT_SITE_URL="https://example.com" node scripts/generate-pages.mjs
  */
-export const SITE_URL = process.env.AIVAULT_SITE_URL || 'https://YOUR-DOMAIN.com';
+export const SITE_URL = process.env.AIVAULT_SITE_URL || 'https://aivault-staging.vercel.app';
 
 export const CATEGORY_MAP = {
   'AI Chat': {

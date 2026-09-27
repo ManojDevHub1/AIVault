@@ -2349,7 +2349,7 @@ server.listen(PORT, async () => {
         const canonical = document.querySelector('link[rel="canonical"]')?.getAttribute('href');
         const desc = document.querySelector('meta[name="description"]')?.getAttribute('content');
         return {
-          ok: title.includes('Compare AI Tools') && canonical === 'https://YOUR-DOMAIN.com/compare/' && !!desc,
+          ok: title.includes('Compare AI Tools') && canonical === 'https://aivault-staging.vercel.app/compare/' && !!desc,
           title,
           canonical,
           desc
