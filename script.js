@@ -2561,8 +2561,9 @@
     if (DOM.navFavoritesBtn) {
       DOM.navFavoritesBtn.addEventListener("click", () => setLibraryView("favorites"));
     }
-    if (DOM.footerFavLink) {
-      DOM.footerFavLink.addEventListener("click", (e) => {
+    const footerFavLink = document.getElementById("footer-fav-link") || DOM.footerFavLink;
+    if (footerFavLink) {
+      footerFavLink.addEventListener("click", (e) => {
         e.preventDefault();
         setLibraryView("favorites");
       });

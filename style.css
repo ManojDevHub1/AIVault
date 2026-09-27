@@ -99,7 +99,7 @@
 
   --text-primary: #F8FAFC;
   --text-secondary: #CBD5E1;
-  --text-muted: #94A3B8;
+  --text-muted: #CBD5E1;
   --text-subtle: #64748B;
   --text-inverse: #0F172A;
 
@@ -2145,6 +2145,18 @@ body > .footer {
 
   .sidebar-mobile-header {
     display: flex;
+  }
+
+  .sidebar-item {
+    min-height: 44px;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+  }
+
+  .toast-container {
+    top: 16px;
+    bottom: auto;
   }
 
   .main-content {

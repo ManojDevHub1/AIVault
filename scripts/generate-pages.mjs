@@ -683,11 +683,13 @@ export function generateToolPageHtml(tool, relatedTools, categoryCounts = {}, to
   <meta property="og:type" content="website">
   <meta property="og:url" content="${canonicalUrl}">
   <meta property="og:site_name" content="AIVault">
+  <meta property="og:image" content="${SITE_URL}/assets/images/preview-desktop.png">
   
   <!-- Twitter Card Metadata -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="${cleanName} — ${cleanCategory} AI Tool">
   <meta name="twitter:description" content="${cleanDesc}">
+  <meta name="twitter:image" content="${SITE_URL}/assets/images/preview-desktop.png">
   
   <!-- Structured Data (JSON-LD) -->
   <script type="application/ld+json">
@@ -960,8 +962,8 @@ ${JSON.stringify(jsonLdGraph, null, 2)}
       <div class="footer-links-group">
         <span class="footer-links-title">Platform</span>
         <ul class="footer-links">
-          <li><a href="../../sitemap.xml" target="_blank">Sitemap</a></li>
-          <li><a href="../../robots.txt" target="_blank">Robots.txt</a></li>
+          <li><a href="../../sitemap.xml" target="_blank" rel="noopener noreferrer">Sitemap</a></li>
+          <li><a href="../../robots.txt" target="_blank" rel="noopener noreferrer">Robots.txt</a></li>
           <li><a href="../../index.html#all-tools-section">Data &amp; Methodology</a></li>
         </ul>
       </div>
@@ -1530,10 +1532,12 @@ export function generateCategoryPageHtml(categoryName, categoryTools, allCategor
   <meta property="og:description" content="Discover ${count} ${cleanCategory} AI tools in the AIVault directory.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="${canonicalUrl}">
+  <meta property="og:image" content="${SITE_URL}/assets/images/preview-desktop.png">
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="${cleanCategory} AI Tools | AIVault">
   <meta name="twitter:description" content="Discover ${count} ${cleanCategory} AI tools in the AIVault directory.">
+  <meta name="twitter:image" content="${SITE_URL}/assets/images/preview-desktop.png">
 
   <!-- JSON-LD -->
   <script type="application/ld+json">
@@ -1691,8 +1695,8 @@ ${JSON.stringify(jsonLdGraph, null, 2)}
       <div class="footer-links-group">
         <span class="footer-links-title">Platform</span>
         <ul class="footer-links">
-          <li><a href="../../sitemap.xml" target="_blank">Sitemap</a></li>
-          <li><a href="../../robots.txt" target="_blank">Robots.txt</a></li>
+          <li><a href="../../sitemap.xml" target="_blank" rel="noopener noreferrer">Sitemap</a></li>
+          <li><a href="../../robots.txt" target="_blank" rel="noopener noreferrer">Robots.txt</a></li>
           <li><a href="../../index.html#all-tools-section">Data &amp; Methodology</a></li>
         </ul>
       </div>
